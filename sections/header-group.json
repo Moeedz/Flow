@@ -32,6 +32,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        "a.site-nav__link {font-size: 15px;}"
+      ],
       "settings": {
         "sticky_header": true,
         "enable_search": true,
