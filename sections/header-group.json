@@ -17,9 +17,9 @@
         "00-announcement": {
           "type": "announcement",
           "settings": {
-            "announcement_text": "Welcome to Furniture Selection, for support please call: 0330 122 9867",
-            "announcement_bg_color": "#c9a600",
-            "announcement_text_color": "#ffffff"
+            "announcement_text": "<strong>WELCOME TO FURNITURE SELECTION, FOR SUPPORT PLEASE CALL: 0330 122 9867</strong>",
+            "announcement_bg_color": "#ffefd9",
+            "announcement_text_color": "#fda82b"
           }
         }
       },
