@@ -59,7 +59,7 @@
       ],
       "custom_css": [
         ".grid-view-item {border: solid 1px black !important;}",
-        ".grid-view-item.text-align--left .quick-add-wrapper.quick-shop--block {padding-bottom: 10px !important;}"
+        ".quick-add-wrapper.quick-shop--block {padding-bottom: 10px !important;}"
       ],
       "settings": {
         "products-per-page": 10,
