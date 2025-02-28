@@ -34,9 +34,11 @@
             "first_button_link": "",
             "second_button_label": "",
             "second_button_link": "",
+            "image": "shopify://shop_images/1200_x_500.png",
             "desktop-caption-heading-size": 80,
             "desktop-caption-body-text-size": 24,
             "text_position": "center_left",
+            "mobile_image": "shopify://shop_images/750_x_1100.png",
             "mobile-caption-heading-size": 36,
             "mobile-caption-body-text-size": 16,
             "mobile_text_position": "center_left",
@@ -555,6 +557,7 @@
           "type": "card",
           "settings": {
             "row": "first_row",
+            "image": "shopify://shop_images/750_x_1100.png",
             "title": "Title",
             "text": "<p>Describe a key feature in detail.</p>",
             "url": ""
@@ -609,6 +612,7 @@
           "type": "card",
           "settings": {
             "row": "second_row",
+            "image": "shopify://shop_images/750_x_1100.png",
             "title": "Title",
             "text": "<p>Describe a key feature in detail.</p>",
             "url": ""
@@ -645,6 +649,7 @@
           "type": "card",
           "settings": {
             "row": "third_row",
+            "image": "shopify://shop_images/750_x_1100.png",
             "title": "Title",
             "text": "<p>Describe a key feature in detail.</p>",
             "url": ""
@@ -690,6 +695,7 @@
           "type": "card",
           "settings": {
             "row": "fourth_row",
+            "image": "shopify://shop_images/750_x_1100.png",
             "title": "Title",
             "text": "<p>Describe a key feature in detail.</p>",
             "url": ""
