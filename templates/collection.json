@@ -61,7 +61,8 @@
         ".grid-view-item {border: solid 1px black !important; margin-bottom: 15px !important;}",
         ".quick-add-wrapper.quick-shop--block {padding-bottom: 10px !important;}",
         ".grid__item {padding-left: 10px !important;}",
-        ".grid-view-item-image {border-bottom: solid 1px black !important;}"
+        ".grid-view-item-image {border-bottom: solid 1px black !important;}",
+        ".product-grid--title a {font-weight: bold !important; font-size: 20px;}"
       ],
       "settings": {
         "products-per-page": 10,
