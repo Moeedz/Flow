@@ -57,12 +57,7 @@
         "product_card_price",
         "product_card_quick_shop"
       ],
-      "custom_css": [
-        ".grid-view-item {border: solid 1px black !important; margin-bottom: 15px !important;}",
-        ".quick-add-wrapper.quick-shop--block {padding-bottom: 10px !important;}",
-        ".grid__item {padding-left: 10px !important;}",
-        ".grid-view-item-image {border-bottom: solid 1px black !important;}"
-      ],
+      "custom_css": [],
       "settings": {
         "products-per-page": 10,
         "desktop-products-per-row": 3,
