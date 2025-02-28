@@ -63,7 +63,8 @@
         ".grid__item {padding-left: 10px !important;}",
         ".grid-view-item-image {border-bottom: solid 1px black !important;}",
         ".product-grid--title a {font-weight: bold !important; font-size: 20px;}",
-        ".product-grid--price .money {font-size: 14px !important;}"
+        ".product-grid--price .money {font-size: 14px !important;}",
+        ".label-font, .spr-form-label {text-transform: uppercase !important;}"
       ],
       "settings": {
         "products-per-page": 10,
