@@ -28,6 +28,13 @@
             "margin_bottom": 15
           }
         },
+        "custom_liquid_4KyFkM": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div\n data-pp-message\n data-pp-style-layout=\"text\"\n data-pp-style-logo-type=\"left\"\n data-pp-style-logo-position=\"top\"\n data-pp-style-text-size=\"16\"\n data-pp-style-text-color=\"black\"\n data-pp-style-text-align=\"left\"\n data-pp-amount=\"{{ \nproduct.selected_or_first_available_variant.price |\n money_without_currency | remove: \",\" | divide_by: 100 }}\">\n </div>",
+            "margin_bottom": 20
+          }
+        },
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819": {
           "type": "separator",
           "settings": {
@@ -73,6 +80,7 @@
       "block_order": [
         "title",
         "price",
+        "custom_liquid_4KyFkM",
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819",
         "options",
         "quantity",
