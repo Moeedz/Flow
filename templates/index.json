@@ -682,15 +682,6 @@
             "url": ""
           }
         },
-        "card_3hLW7D": {
-          "type": "card",
-          "settings": {
-            "row": "fourth_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
-            "url": ""
-          }
-        },
         "card_ratTrb": {
           "type": "card",
           "settings": {
@@ -720,7 +711,6 @@
         "card_pTQ98i",
         "card_HCyGzj",
         "card_DbQXUC",
-        "card_3hLW7D",
         "card_ratTrb"
       ],
       "settings": {
