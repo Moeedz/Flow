@@ -34,11 +34,11 @@
             "first_button_link": "",
             "second_button_label": "",
             "second_button_link": "",
-            "image": "shopify://shop_images/1200_x_500.png",
+            "image": "shopify://shop_images/banner.jpg",
             "desktop-caption-heading-size": 80,
             "desktop-caption-body-text-size": 24,
             "text_position": "center_left",
-            "mobile_image": "shopify://shop_images/750_x_1100.png",
+            "mobile_image": "shopify://shop_images/mbl.jpg",
             "mobile-caption-heading-size": 36,
             "mobile-caption-body-text-size": 16,
             "mobile_text_position": "center_left",
@@ -67,51 +67,51 @@
         "slide_r6KHVH": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1800_x_2000.png",
-            "title": "Slide 1",
+            "image": "shopify://shop_images/chairs.jpg",
+            "title": "",
             "image_link": "",
-            "button": "Learn more",
-            "url": ""
+            "button": "",
+            "url": "shopify://collections/chairs"
           }
         },
         "slide_6y84t4": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1800_x_2000_fc4bd231-fa9e-47ff-82fe-6c06452bdea1.png",
-            "title": "Slide 2",
+            "image": "shopify://shop_images/sofas.jpg",
+            "title": "",
             "image_link": "",
-            "button": "Learn more",
-            "url": ""
+            "button": "",
+            "url": "shopify://collections/sofa-1"
           }
         },
         "slide_8bqKy7": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1800_x_2000.png",
-            "title": "Slide 3",
+            "image": "shopify://shop_images/tables.jpg",
+            "title": "",
             "image_link": "",
-            "button": "Learn more",
-            "url": ""
+            "button": "",
+            "url": "shopify://collections/dining-tables"
           }
         },
         "slide_BfxxnV": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1800_x_2000_fc4bd231-fa9e-47ff-82fe-6c06452bdea1.png",
-            "title": "Slide 4",
+            "image": "shopify://shop_images/slideboards.jpg",
+            "title": "",
             "image_link": "",
-            "button": "Learn more",
-            "url": ""
+            "button": "",
+            "url": "shopify://collections/sideboards"
           }
         },
         "slide_6RWmnX": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1800_x_2000_fc4bd231-fa9e-47ff-82fe-6c06452bdea1.png",
-            "title": "Slide 5",
+            "image": "shopify://shop_images/access.jpg",
+            "title": "",
             "image_link": "",
-            "button": "Learn more",
-            "url": ""
+            "button": "",
+            "url": "shopify://collections/accessories-1"
           }
         }
       },
