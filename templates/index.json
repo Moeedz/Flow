@@ -318,7 +318,7 @@
         "testimonial_rating_height": 100,
         "stars_size": 24,
         "button": "ORDER NOW",
-        "button_url": "",
+        "button_url": "shopify://collections/all",
         "button_use_icon": false,
         "button_use_shadow": false,
         "button_use_hover": false,

@@ -63,7 +63,7 @@
     "product_card_text_alignment": "center",
     "sm_instagram_link": "",
     "enable_breadcrumbs": false,
-    "popup--enable": true,
+    "popup--enable": false,
     "pop-up-text-header-text": "Subscribe to our newsletter",
     "pop-up-text-description-text": "<p>Join our creative community</p>",
     "desktop-popup-style": "slide-up",
