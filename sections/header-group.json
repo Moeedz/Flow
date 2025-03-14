@@ -32,6 +32,54 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "content_AXQhB6": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Tables",
+            "mega_image_1": "shopify://shop_images/5_57ba305d-38a8-4e4e-a4e0-ed1f3ca6817a.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#FFFFFF",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#FFFFFF",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_qtRarJ": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Chairs",
+            "mega_image_1": "shopify://shop_images/15.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#FFFFFF",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#FFFFFF",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        }
+      },
+      "block_order": [
+        "content_AXQhB6",
+        "content_qtRarJ"
+      ],
       "custom_css": [
         "a.site-nav__link {font-size: 15px;}"
       ],
