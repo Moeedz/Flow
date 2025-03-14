@@ -557,9 +557,9 @@
           "type": "card",
           "settings": {
             "row": "first_row",
-            "image": "shopify://shop_images/750_x_1100.png",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/1_096ae0ec-0db4-4aa0-8d59-b0272d015ee1.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -567,8 +567,9 @@
           "type": "card",
           "settings": {
             "row": "first_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/2_2aa7d29a-7d34-43d1-906d-5c05d13e9a69.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -576,8 +577,9 @@
           "type": "card",
           "settings": {
             "row": "first_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/3_967d8fda-b22f-492f-bdfc-a16651574d1a.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -585,8 +587,9 @@
           "type": "card",
           "settings": {
             "row": "first_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/4_46f6a009-8af3-478b-900d-1e9d6078dcef.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -594,8 +597,9 @@
           "type": "card",
           "settings": {
             "row": "second_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/5_57ba305d-38a8-4e4e-a4e0-ed1f3ca6817a.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -603,8 +607,9 @@
           "type": "card",
           "settings": {
             "row": "second_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/6_34a6e9de-85b4-4b4c-a452-48a818a60feb.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -612,9 +617,9 @@
           "type": "card",
           "settings": {
             "row": "second_row",
-            "image": "shopify://shop_images/750_x_1100.png",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/7_60aff5d0-7bef-4f6c-b8a7-c4618bceafe3.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -622,8 +627,9 @@
           "type": "card",
           "settings": {
             "row": "second_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/8_43dd25ca-7141-4336-abcf-f2e7f460b957.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -631,8 +637,9 @@
           "type": "card",
           "settings": {
             "row": "third_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/9_3bdc14ba-0ad8-4ada-9829-c24d7768c2c9.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -640,8 +647,9 @@
           "type": "card",
           "settings": {
             "row": "third_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/10.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -649,9 +657,9 @@
           "type": "card",
           "settings": {
             "row": "third_row",
-            "image": "shopify://shop_images/750_x_1100.png",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/11.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -659,8 +667,9 @@
           "type": "card",
           "settings": {
             "row": "third_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/12.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -668,8 +677,9 @@
           "type": "card",
           "settings": {
             "row": "fourth_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/13.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -677,8 +687,9 @@
           "type": "card",
           "settings": {
             "row": "fourth_row",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/14.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         },
@@ -686,9 +697,9 @@
           "type": "card",
           "settings": {
             "row": "fourth_row",
-            "image": "shopify://shop_images/750_x_1100.png",
-            "title": "Title",
-            "text": "<p>Describe a key feature in detail.</p>",
+            "image": "shopify://shop_images/15.jpg",
+            "title": "",
+            "text": "",
             "url": ""
           }
         }
