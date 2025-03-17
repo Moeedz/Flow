@@ -36,8 +36,50 @@
         "content_AXQhB6": {
           "type": "content",
           "settings": {
-            "mega-menu": "Tables",
+            "mega-menu": "Living Room",
             "mega_image_1": "shopify://shop_images/5_57ba305d-38a8-4e4e-a4e0-ed1f3ca6817a.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#ffffff",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#ffffff",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_qtRarJ": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Kitchen & Dining",
+            "mega_image_1": "shopify://shop_images/15.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#ffffff",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#ffffff",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_ndHHye": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Sofas & Armchairs",
+            "mega_image_1": "shopify://shop_images/Blade-Pink_v2.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -54,11 +96,11 @@
             "show_promo_2_in_mobile_drawer": true
           }
         },
-        "content_qtRarJ": {
+        "content_pnbfJt": {
           "type": "content",
           "settings": {
-            "mega-menu": "Chairs",
-            "mega_image_1": "shopify://shop_images/15.jpg",
+            "mega-menu": "Outdoors",
+            "mega_image_1": "shopify://shop_images/23914_3372b2d4-85f6-4fb4-bbe4-d1231ef27d38.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -78,7 +120,9 @@
       },
       "block_order": [
         "content_AXQhB6",
-        "content_qtRarJ"
+        "content_qtRarJ",
+        "content_ndHHye",
+        "content_pnbfJt"
       ],
       "custom_css": [
         "a.site-nav__link {font-size: 15px;}"
