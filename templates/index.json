@@ -363,7 +363,7 @@
         "product_card_image_eGhBFw": {
           "type": "product_card_image",
           "settings": {
-            "enable_quick_shop": true,
+            "enable_quick_shop": false,
             "disable_quick_shop_mobile": true
           }
         },
