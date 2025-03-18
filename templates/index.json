@@ -15,14 +15,14 @@
         "image_UEbjkk": {
           "type": "image",
           "settings": {
-            "title": "",
+            "title": "Quality Furniture Specialists",
             "text": "",
-            "first_button_label": "",
-            "first_button_link": "",
+            "first_button_label": "Show me",
+            "first_button_link": "shopify://collections",
             "second_button_label": "",
             "second_button_link": "",
             "image": "shopify://shop_images/FS_Home_0-12.jpg",
-            "desktop-caption-heading-size": 80,
+            "desktop-caption-heading-size": 60,
             "desktop-caption-body-text-size": 24,
             "text_position": "center_left",
             "mobile_image": "shopify://shop_images/mbl.jpg",
@@ -600,7 +600,7 @@
             "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
             "customer_name": "Aly B",
             "link": "",
-            "stars": 5
+            "stars": 4
           }
         },
         "text_fMHJiB": {
