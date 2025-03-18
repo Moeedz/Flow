@@ -302,9 +302,9 @@
         "grid-desktop": 4,
         "grid-mobile": "2",
         "colors": "white",
-        "title": "",
+        "title": "Our Recommedations",
         "richtext": "",
-        "collection": "",
+        "collection": "our-recommendations-1",
         "show_view_all": false
       }
     },
