@@ -48,44 +48,122 @@
         "slide_transition_delay": 7
       }
     },
-    "image_logo_list_acPrdx": {
-      "type": "image--logo-list",
+    "collection_collection_list_zw6mJm": {
+      "type": "collection--collection-list",
       "blocks": {
-        "logo_image_n6B7BT": {
-          "type": "logo_image",
+        "featured_collection_pMNKEA": {
+          "type": "featured_collection",
           "settings": {
+            "collection": "rugs",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "featured_collection_fFCXVx": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "living-room-1",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "featured_collection_kNj3rF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "designer",
+            "subheading": "Subheading",
+            "overlay-btn-text": "Shop now",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_pMNKEA",
+        "featured_collection_fFCXVx",
+        "featured_collection_kNj3rF"
+      ],
+      "settings": {
+        "colors": "light",
+        "title": "Featured Collections",
+        "richtext": "",
+        "items-per-row": 3,
+        "fill-the-area": true,
+        "remove-spacing": false,
+        "section-width": "full",
+        "content-position": "overlay"
+      }
+    },
+    "text_rich_text_H7teh9": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_9x4KBB": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why buy from us?"
+          }
+        },
+        "richtext_ha3qhA": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
+            "text_size": 14
+          }
+        }
+      },
+      "block_order": [
+        "heading_9x4KBB",
+        "richtext_ha3qhA"
+      ],
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center"
+      }
+    },
+    "text_text_adverts_kjE3zM": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_fU4pVr": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
             "link": ""
           }
         },
-        "logo_image_baGtzL": {
-          "type": "logo_image",
+        "text_pVbrDN": {
+          "type": "text",
           "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
             "link": ""
           }
         },
-        "logo_image_dCGUhm": {
-          "type": "logo_image",
+        "text_pFtnRg": {
+          "type": "text",
           "settings": {
-            "link": ""
-          }
-        },
-        "logo_image_4C3eDA": {
-          "type": "logo_image",
-          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
             "link": ""
           }
         }
       },
       "block_order": [
-        "logo_image_n6B7BT",
-        "logo_image_baGtzL",
-        "logo_image_dCGUhm",
-        "logo_image_4C3eDA"
+        "text_fU4pVr",
+        "text_pVbrDN",
+        "text_pFtnRg"
       ],
       "settings": {
-        "colors": "light",
-        "width": 150,
-        "title": "As seen in"
+        "colors": "light"
       }
     },
     "animated_text_cLmPFA": {
@@ -146,57 +224,44 @@
         "text_position_mobile": "left"
       }
     },
-    "collection_collection_list_zw6mJm": {
-      "type": "collection--collection-list",
+    "image_logo_list_acPrdx": {
+      "type": "image--logo-list",
       "blocks": {
-        "featured_collection_pMNKEA": {
-          "type": "featured_collection",
+        "logo_image_n6B7BT": {
+          "type": "logo_image",
           "settings": {
-            "collection": "rugs",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
+            "link": ""
           }
         },
-        "featured_collection_fFCXVx": {
-          "type": "featured_collection",
+        "logo_image_baGtzL": {
+          "type": "logo_image",
           "settings": {
-            "collection": "living-room-1",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
+            "link": ""
           }
         },
-        "featured_collection_kNj3rF": {
-          "type": "featured_collection",
+        "logo_image_dCGUhm": {
+          "type": "logo_image",
           "settings": {
-            "collection": "designer",
-            "subheading": "Subheading",
-            "overlay-btn-text": "Shop now",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
+            "link": ""
+          }
+        },
+        "logo_image_4C3eDA": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_pMNKEA",
-        "featured_collection_fFCXVx",
-        "featured_collection_kNj3rF"
+        "logo_image_n6B7BT",
+        "logo_image_baGtzL",
+        "logo_image_dCGUhm",
+        "logo_image_4C3eDA"
       ],
       "settings": {
         "colors": "light",
-        "title": "Featured Collections",
-        "richtext": "",
-        "items-per-row": 3,
-        "fill-the-area": true,
-        "remove-spacing": false,
-        "section-width": "full",
-        "content-position": "overlay"
+        "width": 150,
+        "title": "As seen in"
       }
     },
     "collection_featured_collection_XMebFH": {
@@ -244,6 +309,21 @@
       }
     },
     "image_image_with_text_mg7FFR": {
+      "type": "image--image-with-text",
+      "settings": {
+        "colors": "light",
+        "image": "shopify://shop_images/TOV-S68534-TOV-OC44116.jpg",
+        "text_overlapping_image": false,
+        "section-width": "full",
+        "layout": "left",
+        "text_alignment": "center",
+        "title": "We are thrilled to have TOV products in our portfolio!",
+        "text": "<p>A recent addition to our expanding lists of Brands. TOV have some of the most jaw dropping furniture on the market.</p>",
+        "button_label": "Take me to TOV",
+        "button_link": "shopify://collections/sofas-armchairs"
+      }
+    },
+    "image_image_with_text_9yTJGE": {
       "type": "image--image-with-text",
       "settings": {
         "colors": "light",
@@ -304,34 +384,6 @@
         "columns_per_row": 3,
         "text_alignment": "center",
         "vertical_alignment": "top"
-      }
-    },
-    "text_rich_text_H7teh9": {
-      "type": "text--rich-text",
-      "blocks": {
-        "heading_9x4KBB": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading"
-          }
-        },
-        "richtext_ha3qhA": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
-            "text_size": 14
-          }
-        }
-      },
-      "block_order": [
-        "heading_9x4KBB",
-        "richtext_ha3qhA"
-      ],
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "center",
-        "text_alignment_mobile": "center"
       }
     },
     "featured_menu_FB6zrL": {
@@ -623,61 +675,25 @@
         "circle_images": true,
         "title": "Testimonials"
       }
-    },
-    "text_text_adverts_kjE3zM": {
-      "type": "text--text-adverts",
-      "blocks": {
-        "text_fU4pVr": {
-          "type": "text",
-          "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
-            "link": ""
-          }
-        },
-        "text_pVbrDN": {
-          "type": "text",
-          "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
-            "link": ""
-          }
-        },
-        "text_pFtnRg": {
-          "type": "text",
-          "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_fU4pVr",
-        "text_pVbrDN",
-        "text_pFtnRg"
-      ],
-      "settings": {
-        "colors": "light"
-      }
     }
   },
   "order": [
     "image_slideshow_8ijpMy",
-    "image_logo_list_acPrdx",
-    "animated_text_cLmPFA",
     "collection_collection_list_zw6mJm",
+    "text_rich_text_H7teh9",
+    "text_text_adverts_kjE3zM",
+    "animated_text_cLmPFA",
+    "image_logo_list_acPrdx",
     "collection_featured_collection_XMebFH",
     "image_image_with_text_mg7FFR",
+    "image_image_with_text_9yTJGE",
     "template_product_info_columns_FBtNaR",
-    "text_rich_text_H7teh9",
     "featured_menu_FB6zrL",
     "image_gallery_WrB9pY",
     "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
     "template_product_info_columns_ERP3nR",
     "image_logo_list_kFtVhj",
-    "text_testimonials_KmpgDn",
-    "text_text_adverts_kjE3zM"
+    "text_testimonials_KmpgDn"
   ]
 }
