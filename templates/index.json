@@ -588,15 +588,25 @@
         "text_aJJhL6": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"</p>",
-            "customer_name": "John Smith",
+            "testimonial_text": "<p>\"Wonderful selection of gorgeous furniture. I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "customer_name": "Joy S",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_hXEbf3": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly B",
             "link": "",
             "stars": 5
           }
         }
       },
       "block_order": [
-        "text_aJJhL6"
+        "text_aJJhL6",
+        "text_hXEbf3"
       ],
       "settings": {
         "colors": "white",
