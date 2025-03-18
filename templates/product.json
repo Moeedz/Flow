@@ -61,7 +61,7 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_smart_checkout": false,
+            "show_smart_checkout": true,
             "enable_gift_card_recipient_form": true,
             "margin_bottom": 20
           }
@@ -135,7 +135,6 @@
         },
         "product_card_quick_shop_Xcew36": {
           "type": "product_card_quick_shop",
-          "disabled": true,
           "settings": {}
         }
       },
@@ -192,7 +191,6 @@
         },
         "product_card_quick_shop_Jp8z7Q": {
           "type": "product_card_quick_shop",
-          "disabled": true,
           "settings": {}
         }
       },
