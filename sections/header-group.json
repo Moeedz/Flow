@@ -37,7 +37,7 @@
           "type": "content",
           "settings": {
             "mega-menu": "Living Room",
-            "mega_image_1": "shopify://shop_images/5_57ba305d-38a8-4e4e-a4e0-ed1f3ca6817a.jpg",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-8.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -58,7 +58,7 @@
           "type": "content",
           "settings": {
             "mega-menu": "Kitchen & Dining",
-            "mega_image_1": "shopify://shop_images/15.jpg",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-2.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -79,7 +79,28 @@
           "type": "content",
           "settings": {
             "mega-menu": "Sofas & Armchairs",
-            "mega_image_1": "shopify://shop_images/Blade-Pink_v2.jpg",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-4.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#ffffff",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#ffffff",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_FwgQq3": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Rugs",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-5.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -100,7 +121,49 @@
           "type": "content",
           "settings": {
             "mega-menu": "Outdoors",
-            "mega_image_1": "shopify://shop_images/23914_3372b2d4-85f6-4fb4-bbe4-d1231ef27d38.jpg",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#ffffff",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#ffffff",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_nRWLT9": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Our Recommendations",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-6.jpg",
+            "image_1_aspect_ratio": "square",
+            "mega_image_header_1": "",
+            "mega_image_subheader_1": "",
+            "overlay_text_on_image_promo_1": true,
+            "overlay_text_color_promo_1": "#ffffff",
+            "mega_image_link_1": "",
+            "show_promo_1_in_mobile_drawer": true,
+            "image_2_aspect_ratio": "square",
+            "mega_image_header_2": "",
+            "mega_image_subheader_2": "",
+            "overlay_text_on_image_promo_2": true,
+            "overlay_text_color_promo_2": "#ffffff",
+            "mega_image_link_2": "",
+            "show_promo_2_in_mobile_drawer": true
+          }
+        },
+        "content_9rKczf": {
+          "type": "content",
+          "settings": {
+            "mega-menu": "Sale & Offers",
+            "mega_image_1": "shopify://shop_images/FS_Collection_0-9.jpg",
             "image_1_aspect_ratio": "square",
             "mega_image_header_1": "",
             "mega_image_subheader_1": "",
@@ -122,7 +185,10 @@
         "content_AXQhB6",
         "content_qtRarJ",
         "content_ndHHye",
-        "content_pnbfJt"
+        "content_FwgQq3",
+        "content_pnbfJt",
+        "content_nRWLT9",
+        "content_9rKczf"
       ],
       "custom_css": [
         "a.site-nav__link {font-size: 15px;}"
