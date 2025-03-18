@@ -602,11 +602,21 @@
             "link": "",
             "stars": 5
           }
+        },
+        "text_fMHJiB": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
+            "customer_name": "Carl T",
+            "link": "",
+            "stars": 5
+          }
         }
       },
       "block_order": [
         "text_aJJhL6",
-        "text_hXEbf3"
+        "text_hXEbf3",
+        "text_fMHJiB"
       ],
       "settings": {
         "colors": "white",
