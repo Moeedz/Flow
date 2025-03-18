@@ -49,34 +49,10 @@
             "button-background": "#242424",
             "hover-button-background": "#9f9f9f"
           }
-        },
-        "image_bgckAP": {
-          "type": "image",
-          "settings": {
-            "title": "Make a great \nfirst impression",
-            "text": "Add images and text to give focus to your chosen product, collection, or blog post.",
-            "first_button_label": "Shop now",
-            "first_button_link": "shopify://collections/all",
-            "second_button_label": "Learn more",
-            "second_button_link": "",
-            "desktop-caption-heading-size": 80,
-            "desktop-caption-body-text-size": 24,
-            "text_position": "center_left",
-            "mobile-caption-heading-size": 36,
-            "mobile-caption-body-text-size": 16,
-            "mobile_text_position": "center_left",
-            "image_overlay": "#262428",
-            "image_overlay_opacity": 0,
-            "caption-text": "#242424",
-            "button-text": "#ffffff",
-            "button-background": "#242424",
-            "hover-button-background": "#9F9F9F"
-          }
         }
       },
       "block_order": [
-        "image_UEbjkk",
-        "image_bgckAP"
+        "image_UEbjkk"
       ],
       "settings": {
         "desktop_height": "original",
@@ -146,6 +122,7 @@
         "slide_BfxxnV",
         "slide_6RWmnX"
       ],
+      "disabled": true,
       "settings": {
         "slider_view": 4,
         "slider_view_mobile": 1.5,
@@ -481,6 +458,7 @@
         "collection_g9TcmR",
         "collection_ht3WyY"
       ],
+      "disabled": true,
       "settings": {
         "tabs_color": "#7e7e7e",
         "tabs_color_active": "#000000",
@@ -942,7 +920,7 @@
         "featured_collection_pMNKEA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "rugs",
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
@@ -953,7 +931,7 @@
         "featured_collection_fFCXVx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "living-room-1",
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
@@ -964,7 +942,7 @@
         "featured_collection_kNj3rF": {
           "type": "featured_collection",
           "settings": {
-            "collection": "",
+            "collection": "designer",
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
@@ -987,59 +965,6 @@
         "remove-spacing": false,
         "section-width": "full",
         "content-position": "overlay"
-      }
-    },
-    "countdown_timer_xHiFdB": {
-      "type": "countdown-timer",
-      "blocks": {
-        "timer_complete_message_7nrdXJ": {
-          "type": "timer_complete_message",
-          "settings": {
-            "text": "You've just missed this offer"
-          }
-        },
-        "heading_gc6eMB": {
-          "type": "heading",
-          "settings": {
-            "heading": "Offer ends soon"
-          }
-        },
-        "countdown_timer_riwJNq": {
-          "type": "countdown_timer",
-          "settings": {
-            "end_date": "",
-            "end_time": "",
-            "hide_when_complete": false,
-            "time_labels": true
-          }
-        },
-        "text_tPmBjX": {
-          "type": "text",
-          "settings": {
-            "text": "Grab the offer before it's gone"
-          }
-        },
-        "button_iDwrcN": {
-          "type": "button",
-          "settings": {
-            "label": "Shop now",
-            "link": "shopify://collections/all"
-          }
-        }
-      },
-      "block_order": [
-        "timer_complete_message_7nrdXJ",
-        "heading_gc6eMB",
-        "countdown_timer_riwJNq",
-        "text_tPmBjX",
-        "button_iDwrcN"
-      ],
-      "settings": {
-        "overlay_color": "#262428",
-        "overlay_opacity": 0,
-        "text_alignment": "center",
-        "text_color": "#262428",
-        "background_color": "#E6E5E7"
       }
     },
     "collection_featured_collection_XMebFH": {
@@ -1256,6 +1181,392 @@
         "text_alignment_desktop": "center",
         "text_alignment_mobile": "center"
       }
+    },
+    "events_calendar_DRB7wX": {
+      "type": "events-calendar",
+      "blocks": {
+        "event_fGrURq": {
+          "type": "event",
+          "settings": {
+            "grid_image_size": "square",
+            "day": 10,
+            "month": "Jan",
+            "tbc": false,
+            "day_time": "Saturday, 7:30pm",
+            "price": "",
+            "event_heading": "Event heading",
+            "event_location": "Location",
+            "url": "",
+            "btn_text": "More info"
+          }
+        },
+        "event_76Jjzm": {
+          "type": "event",
+          "settings": {
+            "grid_image_size": "square",
+            "day": 10,
+            "month": "Jan",
+            "tbc": false,
+            "day_time": "Saturday, 7:30pm",
+            "price": "",
+            "event_heading": "Event heading",
+            "event_location": "Location",
+            "url": "",
+            "btn_text": "More info"
+          }
+        },
+        "event_YWxwUg": {
+          "type": "event",
+          "settings": {
+            "grid_image_size": "square",
+            "day": 10,
+            "month": "Jan",
+            "tbc": false,
+            "day_time": "Saturday, 7:30pm",
+            "price": "",
+            "event_heading": "Event heading",
+            "event_location": "Location",
+            "url": "",
+            "btn_text": "More info"
+          }
+        },
+        "event_cKFnjA": {
+          "type": "event",
+          "settings": {
+            "grid_image_size": "square",
+            "day": 10,
+            "month": "Jan",
+            "tbc": false,
+            "day_time": "Saturday, 7:30pm",
+            "price": "",
+            "event_heading": "Event heading",
+            "event_location": "Location",
+            "url": "",
+            "btn_text": "More info"
+          }
+        }
+      },
+      "block_order": [
+        "event_fGrURq",
+        "event_76Jjzm",
+        "event_YWxwUg",
+        "event_cKFnjA"
+      ],
+      "settings": {
+        "colors": "white",
+        "heading": "",
+        "description": "",
+        "layout": "grid",
+        "cards_per_row": 4,
+        "expand_card": false
+      }
+    },
+    "featured_menu_FB6zrL": {
+      "type": "featured-menu",
+      "blocks": {
+        "menu_item_Xeh4Kr": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Menu item",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        },
+        "menu_item_DHdP6z": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Menu item",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        },
+        "menu_item_DeG8Lt": {
+          "type": "menu_item",
+          "settings": {
+            "menu_item_text": "Menu item",
+            "menu_item_color": "#323131",
+            "menu_item_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "menu_item_Xeh4Kr",
+        "menu_item_DHdP6z",
+        "menu_item_DeG8Lt"
+      ],
+      "settings": {
+        "colors": "light",
+        "min_height": "40vw",
+        "menu_position": "center",
+        "alignment_desktop": "center",
+        "alignment_mobile": "center",
+        "menu_items_color": "rgba(0,0,0,0)",
+        "menu_item_size": 18
+      }
+    },
+    "image_gallery_WrB9pY": {
+      "type": "image--gallery",
+      "blocks": {
+        "image_Xwz9gH": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_LicgQP": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_A9eR8n": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "image_Xwz9gH",
+        "image_LicgQP",
+        "image_A9eR8n"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "",
+        "richtext": "",
+        "remove-spacing": true,
+        "full-width": false,
+        "section-width": "full",
+        "content-position": "hide"
+      }
+    },
+    "advanced_layout_hero_cTBpB3": {
+      "type": "advanced-layout--hero",
+      "blocks": {
+        "text_dV9Yfm": {
+          "type": "text",
+          "settings": {
+            "hero-menu-heading": "Highlight your best sellers",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        },
+        "text_x3npaN": {
+          "type": "text",
+          "settings": {
+            "hero-menu-heading": "Promote a new collection",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        }
+      },
+      "block_order": [
+        "text_dV9Yfm",
+        "text_x3npaN"
+      ],
+      "settings": {
+        "homepage-hero-featured-content": "homepage-hero-image-selection",
+        "image_overlay_opacity": 0,
+        "homepage-hero-image-heading": "",
+        "homepage-hero-image-description": "",
+        "text-color": "#fff",
+        "homepage-hero-image-button-label": "",
+        "homepage-hero-image-link": "",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "homepage-hero-video-autoplay": true,
+        "homepage-hero-video-loop": true,
+        "homepage-hero-video-mute": false
+      }
+    },
+    "image_image_with_text_overlay_Hq4VMr": {
+      "type": "image--image-with-text-overlay",
+      "settings": {
+        "image_height": "40vw",
+        "bg_image_overlay_opacity": 0,
+        "parallax": true,
+        "title": "Share your story",
+        "text": "Add a large image with text overlay to give focus to your chosen product, collection, or blog post",
+        "colors": "dark",
+        "textPosition": "center",
+        "textAlignment": "center",
+        "heading--text-size": 26,
+        "text--text-size": 18,
+        "link": "",
+        "button_label": "",
+        "button-text": "#ffffff",
+        "button-background": "#262428",
+        "hover-button-text": "#ffffff",
+        "hover-button-background": "#494949"
+      }
+    },
+    "template_product_info_columns_ERP3nR": {
+      "type": "template--product--info-columns",
+      "blocks": {
+        "image_and_text_XFqbb7": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "square",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_text": "Learn more",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "image_and_text_HfLA6X": {
+          "type": "image_and_text",
+          "settings": {
+            "grid_image_size": "square",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_text": "Learn more",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "video_and_text_eAzagA": {
+          "type": "video_and_text",
+          "settings": {
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "grid_video_size": "wide",
+            "heading": "Heading",
+            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
+            "button_text": "Learn more",
+            "button_link": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "image_and_text_XFqbb7",
+        "image_and_text_HfLA6X",
+        "video_and_text_eAzagA"
+      ],
+      "settings": {
+        "colors": "white",
+        "heading": "Info columns",
+        "description": "<p>Emphasise your messaging</p>",
+        "columns_per_row": 3,
+        "text_alignment": "center",
+        "vertical_alignment": "top"
+      }
+    },
+    "image_logo_list_kFtVhj": {
+      "type": "image--logo-list",
+      "blocks": {
+        "logo_image_LYMCAx": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_image_mPRNqR": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_image_8gh77b": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        },
+        "logo_image_6XUmi3": {
+          "type": "logo_image",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_LYMCAx",
+        "logo_image_mPRNqR",
+        "logo_image_8gh77b",
+        "logo_image_6XUmi3"
+      ],
+      "settings": {
+        "colors": "light",
+        "width": 150,
+        "title": "As seen in"
+      }
+    },
+    "text_testimonials_KmpgDn": {
+      "type": "text--testimonials",
+      "blocks": {
+        "text_aJJhL6": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>\"Show off incredible feedback from your customers\"</p>",
+            "customer_name": "John Smith",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_aJJhL6"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": "Testimonials"
+      }
+    },
+    "text_text_adverts_kjE3zM": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_fU4pVr": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_pVbrDN": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        },
+        "text_pFtnRg": {
+          "type": "text",
+          "settings": {
+            "heading": "What makes you different",
+            "subheading": "Shout about your unique selling points",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_fU4pVr",
+        "text_pVbrDN",
+        "text_pFtnRg"
+      ],
+      "settings": {
+        "colors": "light"
+      }
     }
   },
   "order": [
@@ -1269,12 +1580,20 @@
     "animated_text_cLmPFA",
     "blog_blog_posts_wy9XXp",
     "collection_collection_list_zw6mJm",
-    "countdown_timer_xHiFdB",
     "collection_featured_collection_XMebFH",
     "image_image_with_text_mg7FFR",
     "template_product_info_columns_FBtNaR",
     "video_video_hero_D4wnYX",
     "visual_navigation_banner_VwxF9Y",
-    "text_rich_text_H7teh9"
+    "text_rich_text_H7teh9",
+    "events_calendar_DRB7wX",
+    "featured_menu_FB6zrL",
+    "image_gallery_WrB9pY",
+    "advanced_layout_hero_cTBpB3",
+    "image_image_with_text_overlay_Hq4VMr",
+    "template_product_info_columns_ERP3nR",
+    "image_logo_list_kFtVhj",
+    "text_testimonials_KmpgDn",
+    "text_text_adverts_kjE3zM"
   ]
 }
