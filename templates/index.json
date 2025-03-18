@@ -90,6 +90,48 @@
         "title": "Testimonials"
       }
     },
+    "text_testimonials_kp4mee": {
+      "type": "text--testimonials",
+      "blocks": {
+        "text_bPiVaX": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "customer_name": "Joy S",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_zG6MLw": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly B",
+            "link": "",
+            "stars": 4
+          }
+        },
+        "text_dKXi3c": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
+            "customer_name": "Carl T",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_bPiVaX",
+        "text_zG6MLw",
+        "text_dKXi3c"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": ""
+      }
+    },
     "collection_collection_list_zw6mJm": {
       "type": "collection--collection-list",
       "blocks": {
@@ -312,7 +354,7 @@
       "settings": {
         "colors": "light",
         "width": 150,
-        "title": "As seen in"
+        "title": "JT - add uk furniture logos"
       }
     },
     "collection_featured_collection_XMebFH": {
@@ -378,12 +420,13 @@
       "type": "image--image-with-text",
       "settings": {
         "colors": "light",
+        "image": "shopify://shop_images/FS_Home_0-14.jpg",
         "text_overlapping_image": false,
         "section-width": "full",
         "layout": "right",
         "text_alignment": "center",
-        "title": "Share brand or product details",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "title": "Asiatic rugs",
+        "text": "<p>We have a huge range of rugs to cater for all lifestyles, tastes, sizes & budgets including outdoor variations.</p>",
         "button_label": "",
         "button_link": ""
       }
@@ -650,6 +693,7 @@
   "order": [
     "image_slideshow_8ijpMy",
     "text_testimonials_KmpgDn",
+    "text_testimonials_kp4mee",
     "collection_collection_list_zw6mJm",
     "text_rich_text_H7teh9",
     "text_text_adverts_kjE3zM",
