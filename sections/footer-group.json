@@ -11,15 +11,6 @@
   "type": "footer",
   "name": "Footer",
   "sections": {
-    "newsletter_newsletter_zc97Ew": {
-      "type": "newsletter--newsletter",
-      "disabled": true,
-      "settings": {
-        "colors": "light",
-        "newsletter_heading": "Join our Mailing List",
-        "newsletter_description": ""
-      }
-    },
     "footer-main": {
       "type": "footer-main",
       "blocks": {
@@ -75,7 +66,6 @@
     }
   },
   "order": [
-    "newsletter_newsletter_zc97Ew",
     "footer-main",
     "footer-bottom"
   ]

@@ -386,67 +386,13 @@
         "vertical_alignment": "top"
       }
     },
-    "featured_menu_FB6zrL": {
-      "type": "featured-menu",
-      "blocks": {
-        "menu_item_Xeh4Kr": {
-          "type": "menu_item",
-          "settings": {
-            "menu_item_text": "Menu item",
-            "menu_item_color": "#323131",
-            "menu_item_link": ""
-          }
-        },
-        "menu_item_DHdP6z": {
-          "type": "menu_item",
-          "settings": {
-            "menu_item_text": "Menu item",
-            "menu_item_color": "#323131",
-            "menu_item_link": ""
-          }
-        },
-        "menu_item_DeG8Lt": {
-          "type": "menu_item",
-          "settings": {
-            "menu_item_text": "Menu item",
-            "menu_item_color": "#323131",
-            "menu_item_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "menu_item_Xeh4Kr",
-        "menu_item_DHdP6z",
-        "menu_item_DeG8Lt"
-      ],
-      "settings": {
-        "colors": "light",
-        "min_height": "40vw",
-        "menu_position": "center",
-        "alignment_desktop": "center",
-        "alignment_mobile": "center",
-        "menu_items_color": "rgba(0,0,0,0)",
-        "menu_item_size": 18
-      }
-    },
     "image_gallery_WrB9pY": {
       "type": "image--gallery",
       "blocks": {
         "image_Xwz9gH": {
           "type": "image",
           "settings": {
-            "link": "",
-            "title": "",
-            "subheading": "",
-            "overlay-btn-text": "",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
-          }
-        },
-        "image_LicgQP": {
-          "type": "image",
-          "settings": {
+            "image": "shopify://shop_images/Elm_Silver_New_4.jpg",
             "link": "",
             "title": "",
             "subheading": "",
@@ -459,6 +405,20 @@
         "image_A9eR8n": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/19529-e_3cd82a85-bd9b-4ab8-84e7-f67d9e368e46.jpg",
+            "link": "",
+            "title": "",
+            "subheading": "",
+            "overlay-btn-text": "",
+            "show-gradient-overlay": false,
+            "overlay_font_color": "#262428",
+            "overlay_color": "#ffffff"
+          }
+        },
+        "image_LicgQP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Muse_Black_Spotty_Rug_MU11_LS.jpg",
             "link": "",
             "title": "",
             "subheading": "",
@@ -471,8 +431,8 @@
       },
       "block_order": [
         "image_Xwz9gH",
-        "image_LicgQP",
-        "image_A9eR8n"
+        "image_A9eR8n",
+        "image_LicgQP"
       ],
       "settings": {
         "colors": "white",
@@ -527,6 +487,7 @@
     "image_image_with_text_overlay_Hq4VMr": {
       "type": "image--image-with-text-overlay",
       "settings": {
+        "image": "shopify://shop_images/FS_homepage_hero_2.jpg",
         "image_height": "40vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
@@ -688,7 +649,6 @@
     "image_image_with_text_mg7FFR",
     "image_image_with_text_9yTJGE",
     "template_product_info_columns_FBtNaR",
-    "featured_menu_FB6zrL",
     "image_gallery_WrB9pY",
     "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
