@@ -172,7 +172,7 @@
         "text_static_xmFCxj": {
           "type": "text_static",
           "settings": {
-            "text_static": "<p>Shout about how</p>",
+            "text_static": "<p>Summer wont be long... </p>",
             "max_width_desktop": 100,
             "max_width_mobile": 100,
             "text_color": "rgba(0,0,0,0)"
@@ -181,7 +181,7 @@
         "text_dynamic_NiDB6V": {
           "type": "text_dynamic",
           "settings": {
-            "text_dynamic": "amazing,fantastic,bestselling,jaw-dropping",
+            "text_dynamic": "pre order your dining set now!",
             "animation_timing": 500,
             "rotation_interval": 5000,
             "text_color": "rgba(0,0,0,0)"
@@ -189,6 +189,7 @@
         },
         "text_static_BQQP9K": {
           "type": "text_static",
+          "disabled": true,
           "settings": {
             "text_static": "<p>your product is.</p>",
             "max_width_desktop": 100,
@@ -216,7 +217,8 @@
       ],
       "settings": {
         "colors": "white",
-        "height_desktop": "m",
+        "image_desktop": "shopify://shop_images/FS_homepage_hero_4.jpg",
+        "height_desktop": "l",
         "text_size_desktop": 60,
         "text_position_desktop": "left",
         "height_mobile": "full",
@@ -301,7 +303,7 @@
         "rows": 2,
         "grid-desktop": 4,
         "grid-mobile": "2",
-        "colors": "white",
+        "colors": "light",
         "title": "Our Recommedations",
         "richtext": "",
         "collection": "our-recommendations-1",
