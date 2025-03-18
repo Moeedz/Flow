@@ -588,7 +588,7 @@
         "text_aJJhL6": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>\"Wonderful selection of gorgeous furniture. I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
             "customer_name": "Joy S",
             "link": "",
             "stars": 5
