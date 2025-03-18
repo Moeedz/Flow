@@ -48,6 +48,48 @@
         "slide_transition_delay": 7
       }
     },
+    "text_testimonials_KmpgDn": {
+      "type": "text--testimonials",
+      "blocks": {
+        "text_aJJhL6": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "customer_name": "Joy S",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_hXEbf3": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly B",
+            "link": "",
+            "stars": 4
+          }
+        },
+        "text_fMHJiB": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
+            "customer_name": "Carl T",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_aJJhL6",
+        "text_hXEbf3",
+        "text_fMHJiB"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": "Testimonials"
+      }
+    },
     "collection_collection_list_zw6mJm": {
       "type": "collection--collection-list",
       "blocks": {
@@ -110,16 +152,23 @@
             "heading": "Why buy from us?"
           }
         },
+        "heading_akKieG": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are passionate about Furniture"
+          }
+        },
         "richtext_ha3qhA": {
           "type": "richtext",
           "settings": {
-            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
+            "text": "<p>There’s a saying \"<em>The kitchen is the heart of the home!\"</em>. We think it’s anywhere you sit and relax with friends, normally around a table and sat on a chair!</p>",
             "text_size": 14
           }
         }
       },
       "block_order": [
         "heading_9x4KBB",
+        "heading_akKieG",
         "richtext_ha3qhA"
       ],
       "settings": {
@@ -331,7 +380,7 @@
         "colors": "light",
         "text_overlapping_image": false,
         "section-width": "full",
-        "layout": "left",
+        "layout": "right",
         "text_alignment": "center",
         "title": "Share brand or product details",
         "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
@@ -596,52 +645,11 @@
         "width": 150,
         "title": "As seen in"
       }
-    },
-    "text_testimonials_KmpgDn": {
-      "type": "text--testimonials",
-      "blocks": {
-        "text_aJJhL6": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
-            "customer_name": "Joy S",
-            "link": "",
-            "stars": 5
-          }
-        },
-        "text_hXEbf3": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
-            "customer_name": "Aly B",
-            "link": "",
-            "stars": 4
-          }
-        },
-        "text_fMHJiB": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
-            "customer_name": "Carl T",
-            "link": "",
-            "stars": 5
-          }
-        }
-      },
-      "block_order": [
-        "text_aJJhL6",
-        "text_hXEbf3",
-        "text_fMHJiB"
-      ],
-      "settings": {
-        "colors": "white",
-        "circle_images": true,
-        "title": "Testimonials"
-      }
     }
   },
   "order": [
     "image_slideshow_8ijpMy",
+    "text_testimonials_KmpgDn",
     "collection_collection_list_zw6mJm",
     "text_rich_text_H7teh9",
     "text_text_adverts_kjE3zM",
@@ -655,7 +663,6 @@
     "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
     "template_product_info_columns_ERP3nR",
-    "image_logo_list_kFtVhj",
-    "text_testimonials_KmpgDn"
+    "image_logo_list_kFtVhj"
   ]
 }
