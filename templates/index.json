@@ -906,6 +906,7 @@
       "block_order": [
         "blog_z6RQ6a"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "title": "From the blog",
@@ -973,7 +974,7 @@
         "product_card_image_eGhBFw": {
           "type": "product_card_image",
           "settings": {
-            "enable_quick_shop": false,
+            "enable_quick_shop": true,
             "disable_quick_shop_mobile": true
           }
         },
@@ -1180,85 +1181,6 @@
         "section_width": "narrow",
         "text_alignment_desktop": "center",
         "text_alignment_mobile": "center"
-      }
-    },
-    "events_calendar_DRB7wX": {
-      "type": "events-calendar",
-      "blocks": {
-        "event_fGrURq": {
-          "type": "event",
-          "settings": {
-            "grid_image_size": "square",
-            "day": 10,
-            "month": "Jan",
-            "tbc": false,
-            "day_time": "Saturday, 7:30pm",
-            "price": "",
-            "event_heading": "Event heading",
-            "event_location": "Location",
-            "url": "",
-            "btn_text": "More info"
-          }
-        },
-        "event_76Jjzm": {
-          "type": "event",
-          "settings": {
-            "grid_image_size": "square",
-            "day": 10,
-            "month": "Jan",
-            "tbc": false,
-            "day_time": "Saturday, 7:30pm",
-            "price": "",
-            "event_heading": "Event heading",
-            "event_location": "Location",
-            "url": "",
-            "btn_text": "More info"
-          }
-        },
-        "event_YWxwUg": {
-          "type": "event",
-          "settings": {
-            "grid_image_size": "square",
-            "day": 10,
-            "month": "Jan",
-            "tbc": false,
-            "day_time": "Saturday, 7:30pm",
-            "price": "",
-            "event_heading": "Event heading",
-            "event_location": "Location",
-            "url": "",
-            "btn_text": "More info"
-          }
-        },
-        "event_cKFnjA": {
-          "type": "event",
-          "settings": {
-            "grid_image_size": "square",
-            "day": 10,
-            "month": "Jan",
-            "tbc": false,
-            "day_time": "Saturday, 7:30pm",
-            "price": "",
-            "event_heading": "Event heading",
-            "event_location": "Location",
-            "url": "",
-            "btn_text": "More info"
-          }
-        }
-      },
-      "block_order": [
-        "event_fGrURq",
-        "event_76Jjzm",
-        "event_YWxwUg",
-        "event_cKFnjA"
-      ],
-      "settings": {
-        "colors": "white",
-        "heading": "",
-        "description": "",
-        "layout": "grid",
-        "cards_per_row": 4,
-        "expand_card": false
       }
     },
     "featured_menu_FB6zrL": {
@@ -1586,7 +1508,6 @@
     "video_video_hero_D4wnYX",
     "visual_navigation_banner_VwxF9Y",
     "text_rich_text_H7teh9",
-    "events_calendar_DRB7wX",
     "featured_menu_FB6zrL",
     "image_gallery_WrB9pY",
     "advanced_layout_hero_cTBpB3",
