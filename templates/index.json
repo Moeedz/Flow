@@ -593,6 +593,7 @@
       "block_order": [
         "image_Megm8A"
       ],
+      "disabled": true,
       "settings": {
         "desktop_height": "original",
         "mobile_height": "original",
