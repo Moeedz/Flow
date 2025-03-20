@@ -68,6 +68,13 @@
             "question": "Do you deliver on Weekend?",
             "text": "<p>Yes, for a small additional charge we offer a weekend delivery service.</p>"
           }
+        },
+        "tab_content_QXndTJ": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Can you confirm you have received my return?",
+            "text": "<p>We aim to process returns within 5-7 working days of receiving the item. You will be notified by email once the return is complete. We suggest you make a note of the shipping reference given to you when you sent the item back. This will allow you to track your parcel at every stage of delivery, including when we receive it. Should you have any queries about your return, please feel free to contact our Customer Service team via email or by our contact form.</p>"
+          }
         }
       },
       "block_order": [
@@ -75,7 +82,8 @@
         "tab_content_NCtm6L",
         "tab_content_778DiP",
         "tab_content_xFYk7A",
-        "tab_content_mAeUqy"
+        "tab_content_mAeUqy",
+        "tab_content_QXndTJ"
       ],
       "settings": {
         "colors": "white",
