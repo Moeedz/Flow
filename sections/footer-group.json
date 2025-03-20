@@ -39,7 +39,7 @@
         "newsletter_FEzmPD": {
           "type": "newsletter",
           "settings": {
-            "newsletter_title": "Newsletter",
+            "newsletter_title": "Newsletter Sign up",
             "footer_newsletter_description": ""
           }
         }
