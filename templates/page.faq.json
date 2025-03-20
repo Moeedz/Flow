@@ -75,6 +75,13 @@
             "question": "Can you confirm you have received my return?",
             "text": "<p>We aim to process returns within 5-7 working days of receiving the item. You will be notified by email once the return is complete. We suggest you make a note of the shipping reference given to you when you sent the item back. This will allow you to track your parcel at every stage of delivery, including when we receive it. Should you have any queries about your return, please feel free to contact our Customer Service team via email or by our contact form.</p>"
           }
+        },
+        "tab_content_9jM3BN": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Who pays for return postage?",
+            "text": "<p>If you are returning an unsuitable item for a refund we will refund the cost of the item only and not the original delivery cost. Should you be returning a faulty item for a refund we will refund both the original shipping costs and the return delivery costs.</p>"
+          }
         }
       },
       "block_order": [
@@ -83,7 +90,8 @@
         "tab_content_778DiP",
         "tab_content_xFYk7A",
         "tab_content_mAeUqy",
-        "tab_content_QXndTJ"
+        "tab_content_QXndTJ",
+        "tab_content_9jM3BN"
       ],
       "settings": {
         "colors": "white",
