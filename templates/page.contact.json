@@ -12,11 +12,12 @@
     "image_image_with_text_overlay_JrjEd3": {
       "type": "image--image-with-text-overlay",
       "settings": {
-        "image_height": "40vw",
+        "image": "shopify://shop_images/FS_Home_0-16.jpg",
+        "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
-        "title": "Share your story",
-        "text": "Add a large image with text overlay to give focus to your chosen product, collection, or blog post",
+        "title": "",
+        "text": "",
         "colors": "dark",
         "textPosition": "center",
         "textAlignment": "center",
@@ -28,6 +29,36 @@
         "button-background": "#262428",
         "hover-button-text": "#ffffff",
         "hover-button-background": "#494949"
+      }
+    },
+    "text_rich_text_NwDcce": {
+      "type": "text--rich-text",
+      "blocks": {
+        "heading_cakPpW": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Heading"
+          }
+        },
+        "richtext_AX4KeP": {
+          "type": "richtext",
+          "settings": {
+            "text": "<p>If you need to contact Furniture Selection you can reach us either by writing at:<br/>Rekcut Retail Ltd T/A Furniture Selection, 71-75 Shelton Street,  Covent Garden,  London,  WC2H 9JQ<br/>Or Call us: 0330 122 9867<br/>Or via this Contact Form:</p>",
+            "text_size": 18
+          }
+        }
+      },
+      "block_order": [
+        "heading_cakPpW",
+        "richtext_AX4KeP"
+      ],
+      "disabled": true,
+      "settings": {
+        "colors": "white",
+        "section_width": "narrow",
+        "text_alignment_desktop": "center",
+        "text_alignment_mobile": "center"
       }
     },
     "057a50d5-3fee-4ea2-a832-2d38f47b959a": {
@@ -82,34 +113,6 @@
         "form_width": "narrow",
         "form_title": "Contact us",
         "form_description": "<p>Have a question, or want a product recommendation? Get in touch.</p>"
-      }
-    },
-    "text_rich_text_NwDcce": {
-      "type": "text--rich-text",
-      "blocks": {
-        "heading_cakPpW": {
-          "type": "heading",
-          "settings": {
-            "heading": "Heading"
-          }
-        },
-        "richtext_AX4KeP": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Use this text block to show store announcements, advertise products and collections, or simply welcome visitors to your store.</p>",
-            "text_size": 14
-          }
-        }
-      },
-      "block_order": [
-        "heading_cakPpW",
-        "richtext_AX4KeP"
-      ],
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "center",
-        "text_alignment_mobile": "center"
       }
     }
   },
