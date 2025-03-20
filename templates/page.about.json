@@ -12,7 +12,8 @@
     "94a50e02-c7cb-4f8e-8809-f281c98044d2": {
       "type": "image--image-with-text-overlay",
       "settings": {
-        "image_height": "40vw",
+        "image": "shopify://shop_images/FS_Home_0-02.jpg",
+        "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": false,
         "title": "Our Story",
@@ -72,9 +73,9 @@
             "desktop_position": "md-min-align-center md-min-justify-center",
             "mobile_position": "md-max-align-center md-max-justify-center",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -231,6 +232,7 @@
         "template--14773137178694__aad2a20b-3385-48aa-9079-393f0f4a6ad5-1686321770f98f078e-5": {
           "type": "image",
           "settings": {
+            "desktop_image": "shopify://shop_images/FS_Home_0-19.jpg",
             "heading": "",
             "heading_size": 18,
             "button_label": "",
@@ -238,9 +240,9 @@
             "desktop_position": "md-min-align-center md-min-justify-center",
             "mobile_position": "md-max-align-center md-max-justify-center",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
