@@ -39,7 +39,7 @@
         "newsletter_FEzmPD": {
           "type": "newsletter",
           "settings": {
-            "newsletter_title": "Newsletter Sign up",
+            "newsletter_title": "Subscribe to our newsletter and get a 10% discount on your first order.",
             "footer_newsletter_description": ""
           }
         }
