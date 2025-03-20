@@ -332,8 +332,8 @@
         "text_dKXi3c": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
-            "customer_name": "Carl T",
+            "testimonial_text": "<p>This company goes the extra mile<br/><br/>\"I made an order, only to find out it was out of stock. The Customer Service team immediately contacted me and fast tracked the item when it was back in stock.\"</p>",
+            "customer_name": "Hux T",
             "link": "",
             "stars": 5
           }
