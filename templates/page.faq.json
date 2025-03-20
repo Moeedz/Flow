@@ -58,8 +58,8 @@
         "tab_content_xFYk7A": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+            "question": "I haven’t received a dispatch email/email confirmation?",
+            "text": "<p>Please be aware an automated email is sent to you to the given email address when your order is dispatched. Please check all folders including your junk as it will come from a noreply email address. </p>"
           }
         }
       },
