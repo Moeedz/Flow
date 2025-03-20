@@ -36,11 +36,11 @@
             "title": "© 2025<br>Furtniture Selection<br>Company Number: 15841941"
           }
         },
-        "menu_ejamP9": {
-          "type": "menu",
+        "newsletter_FEzmPD": {
+          "type": "newsletter",
           "settings": {
-            "menu_title": "Products Menu",
-            "footer_linklist": "main-menu-footer"
+            "newsletter_title": "Newsletter",
+            "footer_newsletter_description": ""
           }
         }
       },
@@ -48,7 +48,7 @@
         "menu_xFGR3E",
         "menu_GjEb99",
         "image_N4Pfjh",
-        "menu_ejamP9"
+        "newsletter_FEzmPD"
       ],
       "settings": {
         "alignment": "left"
