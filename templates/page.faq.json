@@ -61,13 +61,21 @@
             "question": "I haven’t received a dispatch email/email confirmation?",
             "text": "<p>Please be aware an automated email is sent to you to the given email address when your order is dispatched. Please check all folders including your junk as it will come from a noreply email address. </p>"
           }
+        },
+        "tab_content_mAeUqy": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Do you deliver on Weekend?",
+            "text": "<p>Yes, for a small additional charge we offer a weekend delivery service.</p>"
+          }
         }
       },
       "block_order": [
         "tab_content_dC4LRx",
         "tab_content_NCtm6L",
         "tab_content_778DiP",
-        "tab_content_xFYk7A"
+        "tab_content_xFYk7A",
+        "tab_content_mAeUqy"
       ],
       "settings": {
         "colors": "white",
