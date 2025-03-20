@@ -53,7 +53,7 @@
       "custom_css": [
         "h3.image-bar--title {text-align: -webkit-left !important; font-weight: 100 !important; font-family: \"Cabin\" !important;}",
         ".responsive-image-wrapper {justify-content: start !important;}",
-        ".image-bar__content img {max-width: 250px !important;}"
+        ".image-bar__content img {max-width: 250px !important; bottom: 7px !important; position: relative !important;}"
       ],
       "settings": {
         "alignment": "left"
