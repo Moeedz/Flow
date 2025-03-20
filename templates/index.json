@@ -30,9 +30,9 @@
             "mobile_text_position": "center_left",
             "image_overlay": "#262428",
             "image_overlay_opacity": 0,
-            "caption-text": "#fff",
-            "button-text": "#373737",
-            "button-background": "#ffffff",
+            "caption-text": "#373737",
+            "button-text": "#ffffff",
+            "button-background": "#373737",
             "hover-button-background": "#9F9F9F"
           }
         },
