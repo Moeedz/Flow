@@ -90,48 +90,6 @@
         "title": "Testimonials"
       }
     },
-    "text_testimonials_kp4mee": {
-      "type": "text--testimonials",
-      "blocks": {
-        "text_bPiVaX": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
-            "customer_name": "Joy S",
-            "link": "",
-            "stars": 5
-          }
-        },
-        "text_zG6MLw": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
-            "customer_name": "Aly B",
-            "link": "",
-            "stars": 4
-          }
-        },
-        "text_dKXi3c": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
-            "customer_name": "Carl T",
-            "link": "",
-            "stars": 5
-          }
-        }
-      },
-      "block_order": [
-        "text_bPiVaX",
-        "text_zG6MLw",
-        "text_dKXi3c"
-      ],
-      "settings": {
-        "colors": "white",
-        "circle_images": true,
-        "title": ""
-      }
-    },
     "collection_collection_list_zw6mJm": {
       "type": "collection--collection-list",
       "blocks": {
@@ -153,7 +111,7 @@
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#fff",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#ffffff"
           }
         },
@@ -164,7 +122,7 @@
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#fff",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#ffffff"
           }
         }
@@ -245,43 +203,6 @@
         "text_fU4pVr",
         "text_pVbrDN",
         "text_pFtnRg"
-      ],
-      "settings": {
-        "colors": "light"
-      }
-    },
-    "text_text_adverts_abCQVC": {
-      "type": "text--text-adverts",
-      "blocks": {
-        "text_RP9yzM": {
-          "type": "text",
-          "settings": {
-            "heading": "Warranties & Returns",
-            "subheading": "We offer a no quibble 14 day return policy, plus all items are guaranteed for 2 years. T&C’s apply.",
-            "link": ""
-          }
-        },
-        "text_8j447b": {
-          "type": "text",
-          "settings": {
-            "heading": "Free Delivery",
-            "subheading": "We offer fast free delivery for any items over £500",
-            "link": ""
-          }
-        },
-        "text_6jVyGJ": {
-          "type": "text",
-          "settings": {
-            "heading": "Excellent Customer Service",
-            "subheading": "Our friendly team are here to help. If you have any questions please call us or use our live chat option",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_RP9yzM",
-        "text_8j447b",
-        "text_6jVyGJ"
       ],
       "settings": {
         "colors": "light"
@@ -387,6 +308,48 @@
         "title": "JT - add uk furniture logos"
       }
     },
+    "text_testimonials_kp4mee": {
+      "type": "text--testimonials",
+      "blocks": {
+        "text_bPiVaX": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "customer_name": "Joy S",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_zG6MLw": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly B",
+            "link": "",
+            "stars": 4
+          }
+        },
+        "text_dKXi3c": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
+            "customer_name": "Carl T",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_bPiVaX",
+        "text_zG6MLw",
+        "text_dKXi3c"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": ""
+      }
+    },
     "collection_featured_collection_XMebFH": {
       "type": "collection--featured-collection",
       "blocks": {
@@ -429,6 +392,43 @@
         "richtext": "",
         "collection": "our-recommendations-1",
         "show_view_all": false
+      }
+    },
+    "text_text_adverts_abCQVC": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_RP9yzM": {
+          "type": "text",
+          "settings": {
+            "heading": "Warranties & Returns",
+            "subheading": "We offer a no quibble 14 day return policy, plus all items are guaranteed for 2 years. T&C’s apply.",
+            "link": ""
+          }
+        },
+        "text_8j447b": {
+          "type": "text",
+          "settings": {
+            "heading": "Free Delivery",
+            "subheading": "We offer fast free delivery for any items over £500",
+            "link": ""
+          }
+        },
+        "text_6jVyGJ": {
+          "type": "text",
+          "settings": {
+            "heading": "Excellent Customer Service",
+            "subheading": "Our friendly team are here to help. If you have any questions please call us or use our live chat option",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_RP9yzM",
+        "text_8j447b",
+        "text_6jVyGJ"
+      ],
+      "settings": {
+        "colors": "light"
       }
     },
     "image_image_with_text_mg7FFR": {
@@ -724,12 +724,12 @@
   "order": [
     "image_slideshow_8ijpMy",
     "text_testimonials_KmpgDn",
-    "text_testimonials_kp4mee",
     "collection_collection_list_zw6mJm",
     "text_rich_text_H7teh9",
     "text_text_adverts_kjE3zM",
     "animated_text_cLmPFA",
     "image_logo_list_acPrdx",
+    "text_testimonials_kp4mee",
     "collection_featured_collection_XMebFH",
     "text_text_adverts_abCQVC",
     "image_image_with_text_mg7FFR",
