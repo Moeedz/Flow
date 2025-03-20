@@ -142,7 +142,7 @@
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
+            "overlay_font_color": "#ffffff",
             "overlay_color": "#ffffff"
           }
         },
@@ -153,7 +153,7 @@
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
+            "overlay_font_color": "#fff",
             "overlay_color": "#ffffff"
           }
         },
@@ -164,7 +164,7 @@
             "subheading": "Subheading",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
+            "overlay_font_color": "#fff",
             "overlay_color": "#ffffff"
           }
         }
@@ -191,26 +191,19 @@
         "heading_9x4KBB": {
           "type": "heading",
           "settings": {
-            "heading": "Why buy from us?"
-          }
-        },
-        "heading_akKieG": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are passionate about Furniture"
+            "heading": "Why buy from us? Because we are passionate about Furniture"
           }
         },
         "richtext_ha3qhA": {
           "type": "richtext",
           "settings": {
-            "text": "<p>There’s a saying \"<em>The kitchen is the heart of the home!\"</em>. We think it’s anywhere you sit and relax with friends, normally around a table and sat on a chair!</p>",
-            "text_size": 14
+            "text": "<p>There’s a saying <strong>\"</strong><em><strong>The kitchen is the heart of the home!\"</strong></em>. We think it’s anywhere you sit and relax with friends, normally around a table and sat on a chair!</p>",
+            "text_size": 22
           }
         }
       },
       "block_order": [
         "heading_9x4KBB",
-        "heading_akKieG",
         "richtext_ha3qhA"
       ],
       "settings": {
@@ -226,24 +219,24 @@
         "text_fU4pVr": {
           "type": "text",
           "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
+            "heading": "Warranties & Returns",
+            "subheading": "We offer a no quibble 14 day return policy, plus all items are guaranteed for 2 years. T&C’s apply.",
             "link": ""
           }
         },
         "text_pVbrDN": {
           "type": "text",
           "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
+            "heading": "Free Delivery",
+            "subheading": "We offer fast free delivery for any items over £500",
             "link": ""
           }
         },
         "text_pFtnRg": {
           "type": "text",
           "settings": {
-            "heading": "What makes you different",
-            "subheading": "Shout about your unique selling points",
+            "heading": "Excellent Customer Service",
+            "subheading": "Our friendly team are here to help. If you have any questions please call us or use our live chat option",
             "link": ""
           }
         }
