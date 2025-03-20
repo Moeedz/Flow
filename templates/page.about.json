@@ -45,7 +45,7 @@
           "type": "richtext",
           "settings": {
             "text": "<p>Having listened to many conversations from friends, colleagues and family around the frustrating process of trying to source the best furniture for their needs, we decided to create an online store with everything in one place, specialising in tables and chairs.<br/><br/>With detailed specifications, high quality product images, advice and excellent customer service, our hope is that we can alleviate the stress and provide a positive and exciting shopping experience.<br/><br/>There’s a saying <em><strong>\"The kitchen is the heart of the home!\"</strong></em> – we think it’s anywhere where you can sit and relax with like-minded people – normally around a table and sat on a chair!<br/><br/><strong>Our Vision</strong><br/><br/>Simply put, to create a thoroughly enjoyable and reliable shopping experience.<br/><br/>Time is precious and to make the big decision of what item to purchase, we have created a website which is straightforward to use, easy to navigate and easily customises your searches. We hope by doing this, we will provide a stress free experience at the touch of a button.<br/><br/>With free delivery* and a simple return policy, our team is as passionate about your furniture selection as you are.<br/><br/>Our team hand-pick items from specially selected suppliers, so you can be confident that you are buying from a trusted and well-respected business, utilising our core business values:<br/><br/><em><strong>Experience, Knowledge, Honesty, Integrity & Passion!</strong></em><br/><br/><strong>Why Choose Us?</strong><br/><br/>We specialise in furniture with a main focus on all types of tables and chairs. Our staff have several years’ experience and come from a product design & technology background. In addition, careful consideration is used to work with suppliers who follow responsible and ethical protocols and always consider the environmental impacts of using particular materials.<br/><br/>We organise and deliver your items directly to your home, making your entire shopping experience as stress free as possible.<br/><br/><strong>Who are we?</strong><br/><br/>We are a small, dedicated team with a passion for quality and creatively designed furniture.We are more than just a furniture retailer; we are part of the community we serve.Our head office might be located in London, but our spirit and services reach the whole of the UK through our reliable courier partners. Every order, every customer, and every question is an opportunity for us to demonstrate our commitment to excellence.<br/><br/><strong>Connect with Us</strong><br/><br/>We thank you for your interest in Furniture Selection and invite you to explore our range. If you have any questions or need further assistance, do not hesitate to contact us.</p>",
-            "text_size": 20
+            "text_size": 16
           }
         }
       },
@@ -83,6 +83,7 @@
       "block_order": [
         "template--14773137178694__33dd17bc-338f-4bf8-860d-044c9b3a8f5d-1686321770f98f078e-5"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "white",
         "title": "",
@@ -154,6 +155,7 @@
         "b8b1f231-a59c-4b75-9a90-a5badf60b192",
         "4e0dc6d9-55a1-44c4-9305-dfad1ed65478"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "Meet the team",
@@ -213,6 +215,7 @@
         "63cc8e24-38f9-49c8-af78-5c6b3961c78c",
         "537c5daf-2647-4d9a-9244-83f6ef7c9203"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "",
@@ -317,6 +320,7 @@
         "59287d78-99ec-44b1-a130-3306b031be63",
         "db95411e-77ab-45e4-aa83-e8c3775c3288"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "Info columns",
@@ -328,6 +332,7 @@
     },
     "58a12040-d534-4682-b1b7-5479f4052864": {
       "type": "store-information--map",
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "Our store",
@@ -376,6 +381,7 @@
         "template--14773137178694__f33a0dde-7961-4114-a8ff-6e5c2a459969-168632303920a5f9ea-2",
         "template--14773137178694__f33a0dde-7961-4114-a8ff-6e5c2a459969-168632303920a5f9ea-3"
       ],
+      "disabled": true,
       "settings": {
         "section_color_scheme": "white",
         "form_width": "narrow",
@@ -424,6 +430,7 @@
         "28ae0150-769d-4d17-a6c3-751dcfe6f0b2",
         "template--14773137178694__16c77c63-79ef-4e35-be30-ea87725968de-1686323103b740650d-1"
       ],
+      "disabled": true,
       "settings": {
         "colors": "light",
         "width": 100,
@@ -469,6 +476,7 @@
         "template--14773137178694__744d98e2-004e-44b9-a03d-ecb59f18bc52-1686321924a56b1582-1",
         "2ecdd5ca-7f5d-41e4-955d-06a9d09b406b"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "",
