@@ -314,17 +314,17 @@
         "text_bPiVaX": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
-            "customer_name": "Joy S",
+            "testimonial_text": "<p>Fantastic, sleek and easy to navigate website. </p><p>\"I haven’t even purchased from this company yet but as soon as my renovations are complete, this will be my ‘go to’ website\"</p>",
+            "customer_name": "Lyndsey K",
             "link": "",
-            "stars": 5
+            "stars": 3
           }
         },
         "text_zG6MLw": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
-            "customer_name": "Aly B",
+            "testimonial_text": "<p>Great looking furniture<br/><br/>\"Rare to find such quality these days with all the typical stuff on every site you look at. Very knowledgeable staff, they were quick to help.\"</p>",
+            "customer_name": "Tim R",
             "link": "",
             "stars": 4
           }
@@ -428,7 +428,7 @@
         "text_6jVyGJ"
       ],
       "settings": {
-        "colors": "light"
+        "colors": "dark"
       }
     },
     "image_image_with_text_mg7FFR": {
