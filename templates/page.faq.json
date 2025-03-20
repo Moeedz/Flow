@@ -44,15 +44,15 @@
         "tab_content_NCtm6L": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+            "question": "Which courier do you use for your deliveries?",
+            "text": "<p>We use different couriers depending on the supplier, these will either be private or Royal mail, FedEx, UK Mail, EVRi, DHL & UPS.</p>"
           }
         },
         "tab_content_778DiP": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+            "question": "Why am I being charged for delivery on my order when it states standard delivery is free?",
+            "text": "<p>All orders over £500 qualify for free delivery. However large 3 seater sofas will incur a delivery charge due to their size and weight.</p>"
           }
         },
         "tab_content_xFYk7A": {
