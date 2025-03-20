@@ -12,7 +12,8 @@
     "94a50e02-c7cb-4f8e-8809-f281c98044d2": {
       "type": "image--image-with-text-overlay",
       "settings": {
-        "image_height": "40vw",
+        "image": "shopify://shop_images/FS_Home_0-03.jpg",
+        "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": false,
         "title": "FAQ's",
@@ -36,8 +37,8 @@
         "tab_content_dC4LRx": {
           "type": "tab_content",
           "settings": {
-            "question": "Place your question or heading here",
-            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+            "question": "How long does it take for home delivery?",
+            "text": "<p>If the item is currently in stock then you can expect your delivery within 3-5 days. If the item needs to be manufactured first then lead times can be up to 6-8 weeks depending on the supplier.</p>"
           }
         },
         "tab_content_NCtm6L": {
