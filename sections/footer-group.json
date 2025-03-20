@@ -14,12 +14,11 @@
     "footer-main": {
       "type": "footer-main",
       "blocks": {
-        "image_N4Pfjh": {
-          "type": "image",
+        "menu_xFGR3E": {
+          "type": "menu",
           "settings": {
-            "image": "shopify://shop_images/FS_Logo_900px190px_v14.png",
-            "link": "",
-            "title": ""
+            "menu_title": "Useful Links",
+            "footer_linklist": "footer"
           }
         },
         "menu_GjEb99": {
@@ -29,26 +28,27 @@
             "footer_linklist": "contact-us"
           }
         },
+        "image_N4Pfjh": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/FS_Logo_900px190px_v14.png",
+            "link": "",
+            "title": "© 2025<br>Furtniture Selection<br>Company Number: 15841941"
+          }
+        },
         "menu_ejamP9": {
           "type": "menu",
           "settings": {
             "menu_title": "Products Menu",
             "footer_linklist": "main-menu-footer"
           }
-        },
-        "menu_xFGR3E": {
-          "type": "menu",
-          "settings": {
-            "menu_title": "Useful Links",
-            "footer_linklist": "footer"
-          }
         }
       },
       "block_order": [
-        "image_N4Pfjh",
+        "menu_xFGR3E",
         "menu_GjEb99",
-        "menu_ejamP9",
-        "menu_xFGR3E"
+        "image_N4Pfjh",
+        "menu_ejamP9"
       ],
       "settings": {
         "alignment": "left"
