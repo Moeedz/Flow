@@ -388,7 +388,7 @@
         "grid-desktop": 4,
         "grid-mobile": "2",
         "colors": "light",
-        "title": "Our Recommedations",
+        "title": "Recommedations",
         "richtext": "",
         "collection": "our-recommendations-1",
         "show_view_all": false
@@ -420,8 +420,8 @@
         "text_alignment": "center",
         "title": "Asiatic rugs",
         "text": "<p>We have a huge range of rugs to cater for all lifestyles, tastes, sizes & budgets including outdoor variations.</p>",
-        "button_label": "",
-        "button_link": ""
+        "button_label": "View",
+        "button_link": "shopify://collections/rugs"
       }
     },
     "template_product_info_columns_FBtNaR": {
