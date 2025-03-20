@@ -314,7 +314,7 @@
         "text_bPiVaX": {
           "type": "text",
           "settings": {
-            "testimonial_text": "<p>Fantastic, sleek and easy to navigate website. </p><p>\"I haven’t even purchased from this company yet but as soon as my renovations are complete, this will be my ‘go to’ website\"</p>",
+            "testimonial_text": "<p>Fantastic, sleek and easy to navigate website. </p><p>\"I haven’t even purchased from this company yet but as soon as my renovations are complete, this will be my ‘go to’ website.\"</p>",
             "customer_name": "Lyndsey K",
             "link": "",
             "stars": 3
@@ -333,7 +333,7 @@
           "type": "text",
           "settings": {
             "testimonial_text": "<p>This company goes the extra mile<br/><br/>\"I wanted to order an item which was out of stock. I called Customer Services, they were brilliant. Once the item was back in stock, I was contacted immediately and placed my order.\"</p>",
-            "customer_name": "Hux T",
+            "customer_name": "Oscar",
             "link": "",
             "stars": 5
           }
