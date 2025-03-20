@@ -604,6 +604,17 @@
       "blocks": {
         "text_dV9Yfm": {
           "type": "text",
+          "disabled": true,
+          "settings": {
+            "hero-menu-heading": "Highlight your best sellers",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        },
+        "text_RXdLeM": {
+          "type": "text",
+          "disabled": true,
           "settings": {
             "hero-menu-heading": "Highlight your best sellers",
             "hero-menu-subheading": "Link to any collection, product or page",
@@ -613,6 +624,7 @@
         },
         "text_x3npaN": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "hero-menu-heading": "Promote a new collection",
             "hero-menu-subheading": "Link to any collection, product or page",
@@ -623,17 +635,18 @@
       },
       "block_order": [
         "text_dV9Yfm",
+        "text_RXdLeM",
         "text_x3npaN"
       ],
       "settings": {
         "homepage-hero-featured-content": "homepage-hero-image-selection",
-        "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_2_ea4458a0-f2aa-45c6-911b-d6f51fcd5778.jpg",
+        "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_4.jpg",
         "image_overlay_opacity": 0,
-        "homepage-hero-image-heading": "",
+        "homepage-hero-image-heading": "The classic Eames chair",
         "homepage-hero-image-description": "",
         "text-color": "#ffffff",
-        "homepage-hero-image-button-label": "",
-        "homepage-hero-image-link": "",
+        "homepage-hero-image-button-label": "Find out more",
+        "homepage-hero-image-link": "shopify://products/the-malmo-lounge-chair-and-stool",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "homepage-hero-video-autoplay": true,
         "homepage-hero-video-loop": true,
@@ -644,7 +657,7 @@
       "type": "image--image-with-text-overlay",
       "settings": {
         "image": "shopify://shop_images/FS_homepage_hero_2.jpg",
-        "image_height": "40vw",
+        "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
         "title": "Our Story",
@@ -660,55 +673,6 @@
         "button-background": "#0f446f",
         "hover-button-text": "#ffffff",
         "hover-button-background": "#494949"
-      }
-    },
-    "template_product_info_columns_ERP3nR": {
-      "type": "template--product--info-columns",
-      "blocks": {
-        "image_and_text_XFqbb7": {
-          "type": "image_and_text",
-          "settings": {
-            "grid_image_size": "square",
-            "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
-            "button_text": "Learn more",
-            "button_link": "shopify://collections/all"
-          }
-        },
-        "image_and_text_HfLA6X": {
-          "type": "image_and_text",
-          "settings": {
-            "grid_image_size": "square",
-            "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
-            "button_text": "Learn more",
-            "button_link": "shopify://collections/all"
-          }
-        },
-        "video_and_text_eAzagA": {
-          "type": "video_and_text",
-          "settings": {
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "grid_video_size": "wide",
-            "heading": "Heading",
-            "text": "<p>Use text paired with images to create a captivating brand story, explain details of your products, or highlight store promotions.</p>",
-            "button_text": "Learn more",
-            "button_link": "shopify://collections/all"
-          }
-        }
-      },
-      "block_order": [
-        "image_and_text_XFqbb7",
-        "image_and_text_HfLA6X",
-        "video_and_text_eAzagA"
-      ],
-      "settings": {
-        "colors": "white",
-        "heading": "Info columns",
-        "description": "<p>Emphasise your messaging</p>",
-        "columns_per_row": 3,
-        "text_alignment": "center",
-        "vertical_alignment": "top"
       }
     },
     "image_logo_list_kFtVhj": {
@@ -769,7 +733,6 @@
     "image_slideshow_pa6CFF",
     "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
-    "template_product_info_columns_ERP3nR",
     "image_logo_list_kFtVhj"
   ]
 }
