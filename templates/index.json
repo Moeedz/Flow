@@ -64,7 +64,7 @@
         "image_CCnQhf": {
           "type": "image",
           "settings": {
-            "title": "Quality Furniture Specialists",
+            "title": "Industry Expertise",
             "text": "",
             "first_button_label": "Show me",
             "first_button_link": "shopify://collections",
@@ -148,7 +148,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "rugs",
-            "subheading": "Subheading",
+            "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
@@ -159,7 +159,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "living-room-1",
-            "subheading": "Subheading",
+            "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
@@ -170,7 +170,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "designer",
-            "subheading": "Subheading",
+            "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
             "overlay_font_color": "#ffffff",
@@ -200,13 +200,13 @@
         "heading_9x4KBB": {
           "type": "heading",
           "settings": {
-            "heading": "Why buy from us? Because we are passionate about Furniture"
+            "heading": "Why buy from us? Because we are passionate about Furniture!"
           }
         },
         "richtext_ha3qhA": {
           "type": "richtext",
           "settings": {
-            "text": "<p>There’s a saying <strong>\"</strong><em><strong>The kitchen is the heart of the home!\"</strong></em>. We think it’s anywhere you sit and relax with friends, normally around a table and sat on a chair!</p>",
+            "text": "<p>There’s a saying <strong>\"</strong><em><strong>The kitchen is the heart of the home!\"</strong></em>. We think it’s anywhere you sit and relax with friends, normally around a table and sat on a chair.</p>",
             "text_size": 22
           }
         }
