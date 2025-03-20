@@ -250,6 +250,43 @@
         "colors": "light"
       }
     },
+    "text_text_adverts_abCQVC": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_RP9yzM": {
+          "type": "text",
+          "settings": {
+            "heading": "Warranties & Returns",
+            "subheading": "We offer a no quibble 14 day return policy, plus all items are guaranteed for 2 years. T&C’s apply.",
+            "link": ""
+          }
+        },
+        "text_8j447b": {
+          "type": "text",
+          "settings": {
+            "heading": "Free Delivery",
+            "subheading": "We offer fast free delivery for any items over £500",
+            "link": ""
+          }
+        },
+        "text_6jVyGJ": {
+          "type": "text",
+          "settings": {
+            "heading": "Excellent Customer Service",
+            "subheading": "Our friendly team are here to help. If you have any questions please call us or use our live chat option",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_RP9yzM",
+        "text_8j447b",
+        "text_6jVyGJ"
+      ],
+      "settings": {
+        "colors": "light"
+      }
+    },
     "animated_text_cLmPFA": {
       "type": "animated-text",
       "blocks": {
@@ -694,6 +731,7 @@
     "animated_text_cLmPFA",
     "image_logo_list_acPrdx",
     "collection_featured_collection_XMebFH",
+    "text_text_adverts_abCQVC",
     "image_image_with_text_mg7FFR",
     "image_image_with_text_9yTJGE",
     "template_product_info_columns_FBtNaR",
