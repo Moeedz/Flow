@@ -552,6 +552,7 @@
         "image_and_text_FtRFNW",
         "video_and_text_XJX3iM"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "heading": "Info columns",
