@@ -15,7 +15,7 @@
         "image_height": "40vw",
         "bg_image_overlay_opacity": 0,
         "parallax": false,
-        "title": "Our Story",
+        "title": "FAQ's",
         "text": "",
         "colors": "dark",
         "textPosition": "center",
@@ -28,6 +28,50 @@
         "button-background": "#262428",
         "hover-button-text": "#ffffff",
         "hover-button-background": "#494949"
+      }
+    },
+    "accordion_LpYVhE": {
+      "type": "accordion",
+      "blocks": {
+        "tab_content_dC4LRx": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+          }
+        },
+        "tab_content_NCtm6L": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+          }
+        },
+        "tab_content_778DiP": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+          }
+        },
+        "tab_content_xFYk7A": {
+          "type": "tab_content",
+          "settings": {
+            "question": "Place your question or heading here",
+            "text": "<p>Here you can place an explanation or answer to the question.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "tab_content_dC4LRx",
+        "tab_content_NCtm6L",
+        "tab_content_778DiP",
+        "tab_content_xFYk7A"
+      ],
+      "settings": {
+        "colors": "white",
+        "title": "Frequently asked questions",
+        "faq_icon": "plus_minus"
       }
     },
     "main": {
@@ -52,6 +96,7 @@
       "block_order": [
         "a52c67a4-24a0-4020-93a2-4b06cdc1c155"
       ],
+      "disabled": true,
       "settings": {
         "colors": "white",
         "section_width": "narrow",
@@ -72,9 +117,9 @@
             "desktop_position": "md-min-align-center md-min-justify-center",
             "mobile_position": "md-max-align-center md-max-justify-center",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -238,9 +283,9 @@
             "desktop_position": "md-min-align-center md-min-justify-center",
             "mobile_position": "md-max-align-center md-max-justify-center",
             "text_color": "#262428",
-            "button_color": "#E6E5E7",
+            "button_color": "#e6e5e7",
             "button_background_color": "#262428",
-            "button_hover_color": "#D4D3D4",
+            "button_hover_color": "#d4d3d4",
             "button_hover_background_color": "#494949",
             "overlay_color": "rgba(0,0,0,0)"
           }
@@ -489,6 +534,7 @@
   },
   "order": [
     "94a50e02-c7cb-4f8e-8809-f281c98044d2",
+    "accordion_LpYVhE",
     "main",
     "63d055aa-9706-43b0-b3c8-49b4a2e53ef9",
     "33dd17bc-338f-4bf8-860d-044c9b3a8f5d",
