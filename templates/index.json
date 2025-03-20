@@ -111,15 +111,6 @@
             "stars": 5
           }
         },
-        "text_hXEbf3": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
-            "customer_name": "Aly B",
-            "link": "",
-            "stars": 4
-          }
-        },
         "text_fMHJiB": {
           "type": "text",
           "settings": {
@@ -128,12 +119,21 @@
             "link": "",
             "stars": 5
           }
+        },
+        "text_hXEbf3": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly B",
+            "link": "",
+            "stars": 4
+          }
         }
       },
       "block_order": [
         "text_aJJhL6",
-        "text_hXEbf3",
-        "text_fMHJiB"
+        "text_fMHJiB",
+        "text_hXEbf3"
       ],
       "settings": {
         "colors": "white",
@@ -439,7 +439,7 @@
         "grid-desktop": 4,
         "grid-mobile": "2",
         "colors": "light",
-        "title": "Recommedations",
+        "title": "Recommendations",
         "richtext": "",
         "collection": "our-recommendations-1",
         "show_view_all": false
