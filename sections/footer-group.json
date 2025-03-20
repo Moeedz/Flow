@@ -50,6 +50,9 @@
         "image_N4Pfjh",
         "newsletter_FEzmPD"
       ],
+      "custom_css": [
+        "h3.image-bar--title {text-align: -webkit-left !important; font-weight: 100 !important; font-family: \"Cabin\" !important;}"
+      ],
       "settings": {
         "alignment": "left"
       }
