@@ -144,10 +144,10 @@
     "collection_collection_list_zw6mJm": {
       "type": "collection--collection-list",
       "blocks": {
-        "featured_collection_pMNKEA": {
+        "featured_collection_fFCXVx": {
           "type": "featured_collection",
           "settings": {
-            "collection": "rugs",
+            "collection": "living-room-1",
             "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
@@ -155,10 +155,10 @@
             "overlay_color": "#ffffff"
           }
         },
-        "featured_collection_fFCXVx": {
+        "featured_collection_pMNKEA": {
           "type": "featured_collection",
           "settings": {
-            "collection": "living-room-1",
+            "collection": "rugs",
             "subheading": "",
             "overlay-btn-text": "Shop now",
             "show-gradient-overlay": false,
@@ -179,8 +179,8 @@
         }
       },
       "block_order": [
-        "featured_collection_pMNKEA",
         "featured_collection_fFCXVx",
+        "featured_collection_pMNKEA",
         "featured_collection_kNj3rF"
       ],
       "settings": {
