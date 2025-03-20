@@ -561,62 +561,42 @@
         "vertical_alignment": "top"
       }
     },
-    "image_gallery_WrB9pY": {
-      "type": "image--gallery",
+    "image_slideshow_pa6CFF": {
+      "type": "image--slideshow",
       "blocks": {
-        "image_Xwz9gH": {
+        "image_Megm8A": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Elm_Silver_New_4.jpg",
-            "link": "",
             "title": "",
-            "subheading": "",
-            "overlay-btn-text": "",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
-          }
-        },
-        "image_A9eR8n": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/19529-e_3cd82a85-bd9b-4ab8-84e7-f67d9e368e46.jpg",
-            "link": "",
-            "title": "",
-            "subheading": "",
-            "overlay-btn-text": "",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
-          }
-        },
-        "image_LicgQP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Muse_Black_Spotty_Rug_MU11_LS.jpg",
-            "link": "",
-            "title": "",
-            "subheading": "",
-            "overlay-btn-text": "",
-            "show-gradient-overlay": false,
-            "overlay_font_color": "#262428",
-            "overlay_color": "#ffffff"
+            "text": "",
+            "first_button_label": "",
+            "first_button_link": "shopify://collections/all",
+            "second_button_label": "",
+            "second_button_link": "",
+            "image": "shopify://shop_images/FS_Home_0-19.jpg",
+            "desktop-caption-heading-size": 80,
+            "desktop-caption-body-text-size": 24,
+            "text_position": "center_left",
+            "mobile-caption-heading-size": 36,
+            "mobile-caption-body-text-size": 16,
+            "mobile_text_position": "center_left",
+            "image_overlay": "#262428",
+            "image_overlay_opacity": 0,
+            "caption-text": "#fff",
+            "button-text": "#373737",
+            "button-background": "#ffffff",
+            "hover-button-background": "#9F9F9F"
           }
         }
       },
       "block_order": [
-        "image_Xwz9gH",
-        "image_A9eR8n",
-        "image_LicgQP"
+        "image_Megm8A"
       ],
       "settings": {
-        "colors": "white",
-        "title": "",
-        "richtext": "",
-        "remove-spacing": true,
-        "full-width": false,
-        "section-width": "full",
-        "content-position": "hide"
+        "desktop_height": "original",
+        "mobile_height": "original",
+        "slide_navigation_style": "bars",
+        "slide_transition_delay": 7
       }
     },
     "advanced_layout_hero_cTBpB3": {
@@ -677,7 +657,7 @@
         "link": "",
         "button_label": "Read More",
         "button-text": "#ffffff",
-        "button-background": "#262428",
+        "button-background": "#0f446f",
         "hover-button-text": "#ffffff",
         "hover-button-background": "#494949"
       }
@@ -786,7 +766,7 @@
     "image_image_with_text_mg7FFR",
     "image_image_with_text_9yTJGE",
     "template_product_info_columns_FBtNaR",
-    "image_gallery_WrB9pY",
+    "image_slideshow_pa6CFF",
     "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
     "template_product_info_columns_ERP3nR",
