@@ -105,7 +105,7 @@
         "text_gQkyKe": {
           "type": "text",
           "settings": {
-            "text": "Free Shipping"
+            "text": "Free Shipping 1111"
           }
         },
         "text_FLYyTe": {
@@ -135,7 +135,7 @@
         "animation_direction": "right",
         "pause_hover": false,
         "bg": "#000000",
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "hover_opacity": 90,
         "padding_horizontal": 2,
         "padding_vertical": 1.5
