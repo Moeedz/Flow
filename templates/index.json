@@ -350,6 +350,9 @@
         "text_static_BQQP9K",
         "button_MNUMPy"
       ],
+      "custom_css": [
+        "h2 {color: #fff;}"
+      ],
       "settings": {
         "colors": "white",
         "image_desktop": "shopify://shop_images/FS_homepage_hero_4.jpg",
