@@ -530,7 +530,8 @@
     "image_image_with_text_mg7FFR": {
       "type": "image--image-with-text",
       "custom_css": [
-        "h3 {font-size: 20}"
+        "h2 {font-size: 30px;}",
+        "P {font-size: 20px;}"
       ],
       "settings": {
         "colors": "light",
@@ -547,6 +548,10 @@
     },
     "image_image_with_text_9yTJGE": {
       "type": "image--image-with-text",
+      "custom_css": [
+        "h2 {font-size: 30px;}",
+        "P {font-size: 20px;}"
+      ],
       "settings": {
         "colors": "light",
         "image": "shopify://shop_images/FS_Home_0-14.jpg",
