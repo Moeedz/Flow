@@ -694,7 +694,7 @@
         "text_x3npaN"
       ],
       "custom_css": [
-        "h1 {font-size: 30px;}",
+        "h3 {font-size: 30px;}",
         "P {font-size: 20px;}"
       ],
       "settings": {
@@ -714,6 +714,9 @@
     },
     "image_image_with_text_overlay_Hq4VMr": {
       "type": "image--image-with-text-overlay",
+      "custom_css": [
+        "P {font-size: 20px;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/FS_homepage_hero_2.jpg",
         "image_height": "40vw",
@@ -724,7 +727,7 @@
         "colors": "light",
         "textPosition": "center",
         "textAlignment": "center",
-        "heading--text-size": 40,
+        "heading--text-size": 50,
         "text--text-size": 18,
         "link": "",
         "button_label": "Read More",
