@@ -11,17 +11,20 @@
   "sections": {
     "image_image_with_text_overlay_JrjEd3": {
       "type": "image--image-with-text-overlay",
+      "custom_css": [
+        "h2 {color: #fff;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/FS_Home_0-16.jpg",
         "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": true,
-        "title": "",
+        "title": "Contact Us",
         "text": "",
         "colors": "dark",
         "textPosition": "center",
         "textAlignment": "center",
-        "heading--text-size": 26,
+        "heading--text-size": 42,
         "text--text-size": 18,
         "link": "",
         "button_label": "",
@@ -111,7 +114,7 @@
       "settings": {
         "section_color_scheme": "white",
         "form_width": "narrow",
-        "form_title": "Contact us",
+        "form_title": "",
         "form_description": "<p>Have a question, or want a product recommendation? Get in touch.</p>"
       }
     }
