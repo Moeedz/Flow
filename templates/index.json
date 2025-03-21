@@ -135,7 +135,7 @@
         "animation_duration": 70,
         "animation_direction": "right",
         "pause_hover": true,
-        "bg": "#000000",
+        "bg": "#373737",
         "text_color": "#ffffff",
         "hover_opacity": 90,
         "padding_horizontal": 2,
