@@ -371,24 +371,28 @@
         "logo_image_n6B7BT": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Asiatic.jpg",
             "link": ""
           }
         },
         "logo_image_baGtzL": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Vintage.jpg",
             "link": ""
           }
         },
         "logo_image_dCGUhm": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Tov.jpg",
             "link": ""
           }
         },
         "logo_image_4C3eDA": {
           "type": "logo_image",
           "settings": {
+            "image": "shopify://shop_images/Carlton_2.jpg",
             "link": ""
           }
         }
