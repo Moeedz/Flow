@@ -693,6 +693,10 @@
         "text_RXdLeM",
         "text_x3npaN"
       ],
+      "custom_css": [
+        "h1 {font-size: 30px;}",
+        "P {font-size: 20px;}"
+      ],
       "settings": {
         "homepage-hero-featured-content": "homepage-hero-image-selection",
         "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_4.jpg",
