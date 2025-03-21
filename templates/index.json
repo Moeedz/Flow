@@ -133,7 +133,7 @@
         "link": "",
         "animation_duration": 70,
         "animation_direction": "right",
-        "pause_hover": false,
+        "pause_hover": true,
         "bg": "#000000",
         "text_color": "#ffffff",
         "hover_opacity": 90,
