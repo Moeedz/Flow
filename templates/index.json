@@ -9,48 +9,6 @@
  */
 {
   "sections": {
-    "ss_scrolling_announcement_bar_tbpexb": {
-      "type": "ss-scrolling-announcement-bar",
-      "blocks": {
-        "text_gQkyKe": {
-          "type": "text",
-          "settings": {
-            "text": "Free Shipping"
-          }
-        },
-        "text_FLYyTe": {
-          "type": "text",
-          "settings": {
-            "text": "Free Shipping"
-          }
-        },
-        "text_8qa6yT": {
-          "type": "text",
-          "settings": {
-            "text": "Free Returns"
-          }
-        }
-      },
-      "block_order": [
-        "text_gQkyKe",
-        "text_FLYyTe",
-        "text_8qa6yT"
-      ],
-      "settings": {
-        "insert_css_class_target": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper",
-        "text_size": 12,
-        "ss_font_family": "montserrat_n4",
-        "link": "",
-        "animation_duration": 44,
-        "animation_direction": "right",
-        "pause_hover": false,
-        "bg": "#000000",
-        "text_color": "#fff",
-        "hover_opacity": 90,
-        "padding_horizontal": 2,
-        "padding_vertical": 1.5
-      }
-    },
     "image_slideshow_8ijpMy": {
       "type": "image--slideshow",
       "blocks": {
@@ -139,6 +97,48 @@
         "mobile_height": "original",
         "slide_navigation_style": "bars",
         "slide_transition_delay": 7
+      }
+    },
+    "ss_scrolling_announcement_bar_tbpexb": {
+      "type": "ss-scrolling-announcement-bar",
+      "blocks": {
+        "text_gQkyKe": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_FLYyTe": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_8qa6yT": {
+          "type": "text",
+          "settings": {
+            "text": "Free Returns"
+          }
+        }
+      },
+      "block_order": [
+        "text_gQkyKe",
+        "text_FLYyTe",
+        "text_8qa6yT"
+      ],
+      "settings": {
+        "insert_css_class_target": "",
+        "text_size": 12,
+        "ss_font_family": "montserrat_n4",
+        "link": "",
+        "animation_duration": 44,
+        "animation_direction": "right",
+        "pause_hover": false,
+        "bg": "#000000",
+        "text_color": "#fff",
+        "hover_opacity": 90,
+        "padding_horizontal": 2,
+        "padding_vertical": 1.5
       }
     },
     "text_testimonials_KmpgDn": {
