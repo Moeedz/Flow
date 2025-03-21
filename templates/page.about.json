@@ -19,7 +19,7 @@
         "image_height": "30vw",
         "bg_image_overlay_opacity": 0,
         "parallax": false,
-        "title": "Our Story",
+        "title": "About Us",
         "text": "",
         "colors": "dark",
         "textPosition": "center",
@@ -69,27 +69,6 @@
         "section_width": "narrow",
         "text_alignment_desktop": "center",
         "text_alignment_mobile": "center"
-      }
-    },
-    "63d055aa-9706-43b0-b3c8-49b4a2e53ef9": {
-      "type": "text--rich-text",
-      "blocks": {
-        "a52c67a4-24a0-4020-93a2-4b06cdc1c155": {
-          "type": "richtext",
-          "settings": {
-            "text": "<p>Having listened to many conversations from friends, colleagues and family around the frustrating process of trying to source the best furniture for their needs, we decided to create an online store with everything in one place, specialising in tables and chairs.<br/><br/>With detailed specifications, high quality product images, advice and excellent customer service, our hope is that we can alleviate the stress and provide a positive and exciting shopping experience.<br/><br/>There’s a saying <em><strong>\"The kitchen is the heart of the home!\"</strong></em> – we think it’s anywhere where you can sit and relax with like-minded people – normally around a table and sat on a chair!<br/><br/><strong>Our Vision</strong><br/><br/>Simply put, to create a thoroughly enjoyable and reliable shopping experience.<br/><br/>Time is precious and to make the big decision of what item to purchase, we have created a website which is straightforward to use, easy to navigate and easily customises your searches. We hope by doing this, we will provide a stress free experience at the touch of a button.<br/><br/>With free delivery* and a simple return policy, our team is as passionate about your furniture selection as you are.<br/><br/>Our team hand-pick items from specially selected suppliers, so you can be confident that you are buying from a trusted and well-respected business, utilising our core business values:<br/><br/><em><strong>Experience, Knowledge, Honesty, Integrity & Passion!</strong></em><br/><br/><strong>Why Choose Us?</strong><br/><br/>We specialise in furniture with a main focus on all types of tables and chairs. Our staff have several years’ experience and come from a product design & technology background. In addition, careful consideration is used to work with suppliers who follow responsible and ethical protocols and always consider the environmental impacts of using particular materials.<br/><br/>We organise and deliver your items directly to your home, making your entire shopping experience as stress free as possible.<br/><br/><strong>Who are we?</strong><br/><br/>We are a small, dedicated team with a passion for quality and creatively designed furniture.We are more than just a furniture retailer; we are part of the community we serve.Our head office might be located in London, but our spirit and services reach the whole of the UK through our reliable courier partners. Every order, every customer, and every question is an opportunity for us to demonstrate our commitment to excellence.<br/><br/><strong>Connect with Us</strong><br/><br/>We thank you for your interest in Furniture Selection and invite you to explore our range. If you have any questions or need further assistance, do not hesitate to contact us.</p>",
-            "text_size": 16
-          }
-        }
-      },
-      "block_order": [
-        "a52c67a4-24a0-4020-93a2-4b06cdc1c155"
-      ],
-      "settings": {
-        "colors": "white",
-        "section_width": "narrow",
-        "text_alignment_desktop": "center",
-        "text_alignment_mobile": "left"
       }
     },
     "33dd17bc-338f-4bf8-860d-044c9b3a8f5d": {
@@ -525,7 +504,6 @@
     "94a50e02-c7cb-4f8e-8809-f281c98044d2",
     "main",
     "text_rich_text_GVz47y",
-    "63d055aa-9706-43b0-b3c8-49b4a2e53ef9",
     "33dd17bc-338f-4bf8-860d-044c9b3a8f5d",
     "410e0db0-6d01-4d70-8356-6c6849fcdadc",
     "8e700b4c-da55-45f7-9f69-8263da89d7a8",
