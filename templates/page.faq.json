@@ -11,6 +11,9 @@
   "sections": {
     "94a50e02-c7cb-4f8e-8809-f281c98044d2": {
       "type": "image--image-with-text-overlay",
+      "custom_css": [
+        "h2 {color: #fff;}"
+      ],
       "settings": {
         "image": "shopify://shop_images/FS_Home_0-03.jpg",
         "image_height": "30vw",
