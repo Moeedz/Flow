@@ -9,6 +9,48 @@
  */
 {
   "sections": {
+    "ss_scrolling_announcement_bar_tbpexb": {
+      "type": "ss-scrolling-announcement-bar",
+      "blocks": {
+        "text_gQkyKe": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_FLYyTe": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_8qa6yT": {
+          "type": "text",
+          "settings": {
+            "text": "Free Returns"
+          }
+        }
+      },
+      "block_order": [
+        "text_gQkyKe",
+        "text_FLYyTe",
+        "text_8qa6yT"
+      ],
+      "settings": {
+        "insert_css_class_target": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper",
+        "text_size": 12,
+        "ss_font_family": "montserrat_n4",
+        "link": "",
+        "animation_duration": 44,
+        "animation_direction": "right",
+        "pause_hover": false,
+        "bg": "#000000",
+        "text_color": "#fff",
+        "hover_opacity": 90,
+        "padding_horizontal": 2,
+        "padding_vertical": 1.5
+      }
+    },
     "image_slideshow_8ijpMy": {
       "type": "image--slideshow",
       "blocks": {
@@ -33,7 +75,7 @@
             "caption-text": "#373737",
             "button-text": "#ffffff",
             "button-background": "#373737",
-            "hover-button-background": "#9F9F9F"
+            "hover-button-background": "#9f9f9f"
           }
         },
         "image_UEbjkk": {
@@ -55,7 +97,7 @@
             "mobile_text_position": "center_left",
             "image_overlay": "#262428",
             "image_overlay_opacity": 0,
-            "caption-text": "#fff",
+            "caption-text": "#ffffff",
             "button-text": "#373737",
             "button-background": "#ffffff",
             "hover-button-background": "#9f9f9f"
@@ -80,7 +122,7 @@
             "mobile_text_position": "center_left",
             "image_overlay": "#262428",
             "image_overlay_opacity": 0,
-            "caption-text": "#fff",
+            "caption-text": "#ffffff",
             "button-text": "#373737",
             "button-background": "#ffffff",
             "hover-button-background": "#9f9f9f"
@@ -583,10 +625,10 @@
             "mobile_text_position": "center_left",
             "image_overlay": "#262428",
             "image_overlay_opacity": 0,
-            "caption-text": "#fff",
+            "caption-text": "#ffffff",
             "button-text": "#373737",
             "button-background": "#ffffff",
-            "hover-button-background": "#9F9F9F"
+            "hover-button-background": "#9f9f9f"
           }
         }
       },
@@ -720,6 +762,7 @@
   },
   "order": [
     "image_slideshow_8ijpMy",
+    "ss_scrolling_announcement_bar_tbpexb",
     "text_testimonials_KmpgDn",
     "collection_collection_list_zw6mJm",
     "text_rich_text_H7teh9",
