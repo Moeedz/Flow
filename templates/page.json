@@ -12,7 +12,7 @@
     "main": {
       "type": "template--page",
       "custom_css": [
-        "P {font-size: 20px;}"
+        "P {font-size: 16px;}"
       ],
       "settings": {
         "page_title_enabled": true,
