@@ -311,7 +311,7 @@
             "text_static": "<p>Summer wont be long... </p>",
             "max_width_desktop": 100,
             "max_width_mobile": 100,
-            "text_color": "#0f446f"
+            "text_color": "#efefef"
           }
         },
         "text_dynamic_NiDB6V": {
@@ -320,7 +320,7 @@
             "text_dynamic": "pre order your dining set now!",
             "animation_timing": 500,
             "rotation_interval": 5000,
-            "text_color": "#0f446f"
+            "text_color": "#efefef"
           }
         },
         "text_static_BQQP9K": {
@@ -356,10 +356,11 @@
       ],
       "settings": {
         "colors": "white",
-        "image_desktop": "shopify://shop_images/FS_Home_0-11.jpg",
+        "image_desktop": "shopify://shop_images/FS_homepage_hero_6.jpg",
         "height_desktop": "l",
         "text_size_desktop": 60,
         "text_position_desktop": "left",
+        "image_mobile": "shopify://shop_images/FS_homepage_hero_6.jpg",
         "height_mobile": "full",
         "text_size_mobile": 22,
         "text_position_mobile": "left"
