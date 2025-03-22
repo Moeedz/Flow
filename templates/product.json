@@ -46,7 +46,7 @@
           "settings": {
             "hide_out_of_stock_variants": false,
             "variant_style": "swatches",
-            "thumbnail_changes_variant": false,
+            "thumbnail_changes_variant": true,
             "size_guide_page": "",
             "size_option_name": "Size",
             "margin_bottom": 20
@@ -110,7 +110,7 @@
         "product_card_image_agxVCQ": {
           "type": "product_card_image",
           "settings": {
-            "enable_quick_shop": false,
+            "enable_quick_shop": true,
             "disable_quick_shop_mobile": true
           }
         },
@@ -200,6 +200,7 @@
         "product_card_price_pJkTF3",
         "product_card_quick_shop_Jp8z7Q"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-size: 14px; text-align: left;}"
       ],
