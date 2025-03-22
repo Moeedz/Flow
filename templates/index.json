@@ -703,8 +703,8 @@
         "text_x3npaN"
       ],
       "custom_css": [
-        "h1 {font-size: 30px;}",
-        "P {font-size: 20px;}"
+        "h2 {font-size: 45px;}",
+        "P {font-size: 20px; width: 50%;}"
       ],
       "settings": {
         "homepage-hero-featured-content": "homepage-hero-image-selection",
