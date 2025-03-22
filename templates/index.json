@@ -229,7 +229,7 @@
       "settings": {
         "colors": "light",
         "title": "Featured Collections",
-        "richtext": "<p>Select a Collection</p>",
+        "richtext": "<p>Select a Collection to view</p>",
         "items-per-row": 3,
         "fill-the-area": true,
         "remove-spacing": false,
