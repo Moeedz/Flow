@@ -70,7 +70,7 @@
         "products-per-page": 10,
         "desktop-products-per-row": 3,
         "mobile-products-per-row": "1",
-        "pagination_options": "pagination_infinite_scrolling",
+        "pagination_options": "pagination_default",
         "desktop_position": "topbar",
         "enable_collection_title": false,
         "enable_collection_description": false,
