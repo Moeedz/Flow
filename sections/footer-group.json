@@ -51,10 +51,10 @@
         "newsletter_FEzmPD"
       ],
       "custom_css": [
-        "h3.image-bar--title {text-align: -webkit-left !important; font-weight: 100 !important; font-family: \"Cabin\" !important;}",
+        "h3.image-bar--title {text-align: -webkit-left; font-weight: 100 !important; font-family: \"Cabin\" !important;}",
         ".responsive-image-wrapper {justify-content: start !important;}",
         ".image-bar__content img {max-width: 250px !important; bottom: 7px !important; position: relative !important;}",
-        "@media screen and (max-width: 767px) {.grid__item.large--one-quarter.medium--one-half.small--one-whole.image-footer {place-items: center !important; text-align: -webkit-center !important;}}"
+        "@media screen and (max-width: 767px) {.grid__item.large--one-quarter.medium--one-half.small--one-whole.image-footer {place-items: center !important; text-align: -webkit-center !important; }}"
       ],
       "settings": {
         "alignment": "left"
