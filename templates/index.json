@@ -699,7 +699,7 @@
         "text_x3npaN"
       ],
       "custom_css": [
-        "h3 {font-size: 30px;}",
+        "h1 {font-size: 30px;}",
         "P {font-size: 20px;}"
       ],
       "settings": {
