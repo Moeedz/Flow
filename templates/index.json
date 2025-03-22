@@ -317,7 +317,7 @@
         "text_dynamic_NiDB6V": {
           "type": "text_dynamic",
           "settings": {
-            "text_dynamic": "pre order your dining set now!",
+            "text_dynamic": "pre, order, your, dining set now!",
             "animation_timing": 2200,
             "rotation_interval": 5000,
             "text_color": "#deb34a"
