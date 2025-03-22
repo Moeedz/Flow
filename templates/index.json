@@ -704,8 +704,8 @@
       ],
       "custom_css": [
         "h2 {font-size: 45px;}",
-        "P {font-size: 20px; width: 50%;}",
-        "@media screen and (min-width: 768px) {.advanced-layout--hero__text-block {text-align: -webkit-center !important;}}"
+        "@media screen and (min-width: 768px) {P {font-size: 20px; width: 50%;}}",
+        " .advanced-layout--hero__text-block {text-align: -webkit-center !important; }"
       ],
       "settings": {
         "homepage-hero-featured-content": "homepage-hero-image-selection",
