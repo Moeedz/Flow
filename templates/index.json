@@ -492,7 +492,7 @@
         "title": "Recommendations",
         "richtext": "",
         "collection": "our-recommendations-1",
-        "show_view_all": false
+        "show_view_all": true
       }
     },
     "text_text_adverts_abCQVC": {
@@ -565,7 +565,7 @@
         "layout": "right",
         "text_alignment": "center",
         "title": "Asiatic rugs",
-        "text": "<p>We have a huge range of rugs to cater for all lifestyles, tastes, sizes & budgets including outdoor variations.</p>",
+        "text": "<p>We have a huge range of rugs to cater for all lifestyles, tastes, sizes & budgets including outdoor variations. If you cannot find what you are looking for<br/>please call us!</p>",
         "button_label": "View",
         "button_link": "shopify://collections/rugs"
       }
