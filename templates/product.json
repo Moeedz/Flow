@@ -87,6 +87,9 @@
         "buy_buttons",
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 768px) {.product-description.product-form-block * {font-size: 16px !important;}}"
+      ],
       "settings": {
         "enable_sticky": true,
         "show_out_of_stock_email": true,
