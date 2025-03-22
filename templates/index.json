@@ -707,7 +707,7 @@
         "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_4.jpg",
         "image_overlay_opacity": 0,
         "homepage-hero-image-heading": "The classic Eames chair",
-        "homepage-hero-image-description": "<p>IThe Malmo Lounge Chair and Stool is a classic piece following<br>the timeless Eames design that oozes class & sophistication. A highly desired item,<br>perfect for reading a book, having an afternoon nap or watching your favourite movie.</p>",
+        "homepage-hero-image-description": "The Malmo Lounge Chair and Stool is a classic piece following the timeless Eames design that oozes class & sophistication. A highly desired item, perfect for reading a book, having an afternoon nap or watching your favourite movie.",
         "text-color": "#ffffff",
         "homepage-hero-image-button-label": "Find out more",
         "homepage-hero-image-link": "shopify://products/the-malmo-lounge-chair-and-stool",
@@ -776,6 +776,7 @@
         "logo_image_8gh77b",
         "logo_image_6XUmi3"
       ],
+      "disabled": true,
       "settings": {
         "colors": "light",
         "width": 150,
