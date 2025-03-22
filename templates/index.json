@@ -734,7 +734,7 @@
         "textPosition": "center",
         "textAlignment": "center",
         "heading--text-size": 50,
-        "text--text-size": 18,
+        "text--text-size": 24,
         "link": "",
         "button_label": "Read More",
         "button-text": "#ffffff",
