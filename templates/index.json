@@ -361,9 +361,9 @@
         "text_size_desktop": 60,
         "text_position_desktop": "left",
         "image_mobile": "shopify://shop_images/FS_homepage_hero_6.jpg",
-        "height_mobile": "full",
-        "text_size_mobile": 22,
-        "text_position_mobile": "left"
+        "height_mobile": "s",
+        "text_size_mobile": 30,
+        "text_position_mobile": "center"
       }
     },
     "image_logo_list_acPrdx": {
