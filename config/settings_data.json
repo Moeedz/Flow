@@ -37,7 +37,7 @@
     "cart-drawer-text": "#323131",
     "color_footer_bg": "#f2e8db",
     "color_footer_text": "#000000",
-    "type_header_font": "roboto_n7",
+    "type_header_font": "libre_baskerville_n7",
     "header-text-size": 14,
     "heading_spacing": 0,
     "heading_font_case": "normal",
@@ -58,7 +58,7 @@
     "announcement_text_size": 14,
     "ajax_cart_method": "added",
     "cart_vendor_enable": true,
-    "cart_notes_enable": true,
+    "cart_notes_enable": false,
     "giftwrap_gift_note": true,
     "product-grid": "natural",
     "hover-effect": true,
@@ -73,10 +73,11 @@
     "social_sharing_blog": false,
     "share_x": false,
     "enable_breadcrumbs": true,
-    "popup--enable": false,
+    "popup--enable": true,
     "pop-up-text-header-text": "Subscribe to our newsletter",
     "pop-up-text-description-text": "<p>Join our creative community</p>",
-    "desktop-popup-style": "slide-up",
+    "popup--show-social-icons": false,
+    "desktop-popup-style": "fullscreen",
     "popup--test-mode": false,
     "enable_verification_popup": false,
     "verification-pop-up__test-mode": false,
@@ -85,6 +86,14 @@
     "page_fade_enabled": true,
     "ken_burns_enabled": true,
     "checkout_logo_size": "medium",
+    "sections": {
+      "gift-card": {
+        "type": "gift-card",
+        "settings": {
+          "logo_max_width": 200
+        }
+      }
+    },
     "content_for_index": []
   },
   "presets": {
