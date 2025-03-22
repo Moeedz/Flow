@@ -72,8 +72,8 @@
         "mobile-products-per-row": "1",
         "pagination_options": "pagination_infinite_scrolling",
         "desktop_position": "topbar",
-        "enable_collection_title": true,
-        "enable_collection_description": true,
+        "enable_collection_title": false,
+        "enable_collection_description": false,
         "enable_filtering": true,
         "show_swatch_filter_labels": true,
         "enable_sorting": true
