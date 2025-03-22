@@ -311,7 +311,7 @@
             "text_static": "<p>Summer wont be long... </p>",
             "max_width_desktop": 100,
             "max_width_mobile": 100,
-            "text_color": "#373737"
+            "text_color": "#deb34a"
           }
         },
         "text_dynamic_NiDB6V": {
@@ -320,7 +320,7 @@
             "text_dynamic": "pre order your dining set now!",
             "animation_timing": 500,
             "rotation_interval": 5000,
-            "text_color": "#373737"
+            "text_color": "#deb34a"
           }
         },
         "text_static_BQQP9K": {
