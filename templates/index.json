@@ -178,6 +178,9 @@
         "text_fMHJiB",
         "text_hXEbf3"
       ],
+      "custom_css": [
+        ".testimonials--star-wrapper svg path {fill: #deb34a; stroke: #deb34a;}"
+      ],
       "settings": {
         "colors": "white",
         "circle_images": true,
