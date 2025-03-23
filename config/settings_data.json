@@ -56,6 +56,7 @@
     "label_spacing": 0,
     "logo_font_size": 18,
     "announcement_text_size": 14,
+    "announcement_text_spacing": 0,
     "ajax_cart_method": "added",
     "cart_vendor_enable": true,
     "cart_notes_enable": false,
