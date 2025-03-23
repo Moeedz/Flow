@@ -449,6 +449,9 @@
         "text_zG6MLw",
         "text_dKXi3c"
       ],
+      "custom_css": [
+        ".testimonials--star-wrapper svg path {fill: #deb34a; stroke: #deb34a;}"
+      ],
       "settings": {
         "colors": "white",
         "circle_images": true,
@@ -704,8 +707,8 @@
       ],
       "custom_css": [
         "h2 {font-size: 45px;}",
-        "@media screen and (min-width: 768px) {P {font-size: 20px; width: 50%;}}",
-        " .advanced-layout--hero__text-block {text-align: -webkit-center !important; }"
+        "@media screen and (min-width: 768px) {P {font-size: 20px; width: 50%; }}",
+        ".advanced-layout--hero__text-block {text-align: -webkit-center !important;}"
       ],
       "settings": {
         "homepage-hero-featured-content": "homepage-hero-image-selection",
