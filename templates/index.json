@@ -742,7 +742,7 @@
         "textAlignment": "center",
         "heading--text-size": 50,
         "text--text-size": 24,
-        "link": "",
+        "link": "shopify://pages/about-us",
         "button_label": "Read More",
         "button-text": "#ffffff",
         "button-background": "#0f446f",
