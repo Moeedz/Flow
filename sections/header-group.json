@@ -26,7 +26,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "announcement_text": "<strong>FREE DELIVER  //  SECURE PAYMENT  //          14 DAY FREE RETURNS  //  2 YEAR GUARANTEE </strong>",
+            "announcement_text": "<strong>FREE DELIVERY  //  SECURE PAYMENT  //          14 DAY FREE RETURNS  //  2 YEAR GUARANTEE </strong>",
             "announcement_bg_color": "#0f446f",
             "announcement_text_color": "#ffffff"
           }
