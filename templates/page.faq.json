@@ -83,7 +83,7 @@
           "type": "tab_content",
           "settings": {
             "question": "Who pays for return postage?",
-            "text": "<p>If you are returning an unsuitable item for a refund we will refund the cost of the item only and not the original delivery cost. Should you be returning a faulty item for a refund we will refund both the original shipping costs and the return delivery costs.</p>"
+            "text": "<p>If you are returning an unsuitable item for a refund, we will refund the cost of the item only, and not the original delivery cost. Should you be returning a faulty item for a refund, we will refund both the original shipping costs and the return delivery costs.</p>"
           }
         }
       },
