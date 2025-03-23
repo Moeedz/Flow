@@ -497,7 +497,7 @@
         "grid-mobile": "2",
         "colors": "light",
         "title": "Recommendations",
-        "richtext": "",
+        "richtext": "<p>Take a look at our current recommendations</p>",
         "collection": "our-recommendations-1",
         "show_view_all": true
       }
