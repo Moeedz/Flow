@@ -339,7 +339,7 @@
         "button_MNUMPy": {
           "type": "button",
           "settings": {
-            "button_url": "shopify://collections/all",
+            "button_url": "shopify://collections/outdoor-dining-sets",
             "button_text": "Shop now",
             "color_button_text": "rgba(0,0,0,0)",
             "color_button_background": "rgba(0,0,0,0)",
