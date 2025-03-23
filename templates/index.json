@@ -362,7 +362,7 @@
         "image_desktop": "shopify://shop_images/FS_homepage_hero_6.jpg",
         "height_desktop": "l",
         "text_size_desktop": 60,
-        "text_position_desktop": "left",
+        "text_position_desktop": "center",
         "image_mobile": "shopify://shop_images/FS_homepage_hero_6.jpg",
         "height_mobile": "s",
         "text_size_mobile": 30,
