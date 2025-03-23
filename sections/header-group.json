@@ -21,10 +21,19 @@
             "announcement_bg_color": "#aebbb2",
             "announcement_text_color": "#343434"
           }
+        },
+        "announcement_fcBQxY": {
+          "type": "announcement",
+          "settings": {
+            "announcement_text": "<strong>Test Text</strong>",
+            "announcement_bg_color": "#aebbb2",
+            "announcement_text_color": "#343434"
+          }
         }
       },
       "block_order": [
-        "00-announcement"
+        "00-announcement",
+        "announcement_fcBQxY"
       ],
       "settings": {
         "desktop_social_icons": true
