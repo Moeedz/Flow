@@ -499,7 +499,7 @@
         "title": "Recommendations",
         "richtext": "<p>Check out our latest recommendations</p>",
         "collection": "our-recommendations-1",
-        "show_view_all": true
+        "show_view_all": false
       }
     },
     "text_text_adverts_abCQVC": {
