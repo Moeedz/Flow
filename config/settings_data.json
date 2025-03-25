@@ -59,7 +59,7 @@
     "announcement_text_spacing": 0,
     "ajax_cart_method": "added",
     "cart_vendor_enable": true,
-    "cart_notes_enable": false,
+    "cart_notes_enable": true,
     "giftwrap_gift_note": true,
     "product-grid": "natural",
     "hover-effect": true,
