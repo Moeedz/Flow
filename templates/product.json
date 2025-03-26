@@ -28,6 +28,13 @@
             "margin_bottom": 20
           }
         },
+        "custom_liquid_i973wf": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.price >= 50000 %}\n   <p style=\"font-weight: bold;\">Qualifies for FREE delivery</p>\n{% endif %}",
+            "margin_bottom": 20
+          }
+        },
         "custom_liquid_UfWeXC": {
           "type": "custom_liquid",
           "settings": {
@@ -80,6 +87,7 @@
       "block_order": [
         "title",
         "price",
+        "custom_liquid_i973wf",
         "custom_liquid_UfWeXC",
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819",
         "options",
