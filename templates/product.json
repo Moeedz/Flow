@@ -31,7 +31,7 @@
         "custom_liquid_i973wf": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.price >= 50000 %}\n   <p style=\"font-weight: bold;\">Qualifies for FREE delivery</p>\n{% endif %}",
+            "custom_liquid": "{% if product.price >= 50000 %}\n   <p style=\"font-weight: bold;\">Qualifies for FREE delivery</p>\n{% endif %}\n\n<style>\n.product-form-block.custom-liquid.rte.text-link-animated {\n    margin-bottom: 50px !important;\n}\n</style>",
             "margin_bottom": 20
           }
         },
@@ -96,7 +96,8 @@
         "a55b9011-1b1a-4353-9d97-7bdcd60949f2"
       ],
       "custom_css": [
-        "@media screen and (min-width: 768px) {.product-description.product-form-block * {font-size: 16px !important; }}"
+        "@media screen and (min-width: 768px) {.product-description.product-form-block * {font-size: 16px !important; }}",
+        ".product-form-block:has(.product-price-group) {margin-bottom: 0 !important;}"
       ],
       "settings": {
         "enable_sticky": true,
