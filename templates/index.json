@@ -261,6 +261,9 @@
         "heading_9x4KBB",
         "richtext_ha3qhA"
       ],
+      "custom_css": [
+        "h2.rte {border-bottom: solid 1px #0000004f !important; padding-bottom: 20px;}"
+      ],
       "settings": {
         "colors": "white",
         "section_width": "narrow",
