@@ -141,15 +141,15 @@
             "mega_image_subheader_1": "",
             "overlay_text_on_image_promo_1": true,
             "overlay_text_color_promo_1": "#ffffff",
-            "mega_image_link_1": "",
+            "mega_image_link_1": "shopify://collections/outdoors-1",
             "show_promo_1_in_mobile_drawer": true,
-            "mega_image_2": "shopify://shop_images/22950-c.jpg",
+            "mega_image_2": "shopify://shop_images/22951-c.jpg",
             "image_2_aspect_ratio": "square",
             "mega_image_header_2": "",
             "mega_image_subheader_2": "",
             "overlay_text_on_image_promo_2": true,
             "overlay_text_color_promo_2": "#ffffff",
-            "mega_image_link_2": "",
+            "mega_image_link_2": "shopify://products/capri-collection-outdoor-dining-chair",
             "show_promo_2_in_mobile_drawer": true
           }
         },
