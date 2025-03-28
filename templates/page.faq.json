@@ -96,6 +96,10 @@
         "tab_content_QXndTJ",
         "tab_content_9jM3BN"
       ],
+      "custom_css": [
+        "h2 {font-size: 16px;}",
+        "P {font-size: 16px;}"
+      ],
       "settings": {
         "colors": "white",
         "title": "Frequently asked questions",
