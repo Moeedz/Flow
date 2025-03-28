@@ -111,6 +111,10 @@
         "fbb2a872-0770-4f56-913c-b7853e33a9c0",
         "template--14753984643142__057a50d5-3fee-4ea2-a832-2d38f47b959a-16788945317184afd8-3"
       ],
+      "custom_css": [
+        "h2 {font-size: 16px;}",
+        "P {font-size: 16px;}"
+      ],
       "settings": {
         "section_color_scheme": "white",
         "form_width": "narrow",
