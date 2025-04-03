@@ -271,6 +271,65 @@
         "text_alignment_mobile": "center"
       }
     },
+    "advanced_layout_hero_cTBpB3": {
+      "type": "advanced-layout--hero",
+      "blocks": {
+        "text_dV9Yfm": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "hero-menu-heading": "Highlight your best sellers",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        },
+        "text_RXdLeM": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "hero-menu-heading": "Highlight your best sellers",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        },
+        "text_x3npaN": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "hero-menu-heading": "Promote a new collection",
+            "hero-menu-subheading": "Link to any collection, product or page",
+            "hero-menu-link": "",
+            "featured_image_size": "original"
+          }
+        }
+      },
+      "block_order": [
+        "text_dV9Yfm",
+        "text_RXdLeM",
+        "text_x3npaN"
+      ],
+      "custom_css": [
+        "h2 {font-size: 45px;}",
+        "@media screen and (min-width: 768px) {P {font-size: 20px; width: 50%; }}",
+        ".advanced-layout--hero__text-block {text-align: -webkit-center !important;}"
+      ],
+      "settings": {
+        "homepage-hero-featured-content": "homepage-hero-image-selection",
+        "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_4.jpg",
+        "image_overlay_opacity": 0,
+        "homepage-hero-image-heading": "The classic Eames chair",
+        "homepage-hero-image-description": "The Eames style Lounge Chair and Stool is a classic piece following the timeless Eames design that oozes class & sophistication. A highly desired item, perfect for reading a book, having an afternoon nap or watching your favourite movie.",
+        "text-color": "#ffffff",
+        "homepage-hero-image-button-label": "Buy Now",
+        "homepage-hero-image-link": "shopify://products/the-malmo-lounge-chair-and-stool",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "homepage-hero-video-autoplay": true,
+        "homepage-hero-video-loop": true,
+        "homepage-hero-video-mute": false
+      }
+    },
     "text_text_adverts_kjE3zM": {
       "type": "text--text-adverts",
       "blocks": {
@@ -669,65 +728,6 @@
         "slide_transition_delay": 7
       }
     },
-    "advanced_layout_hero_cTBpB3": {
-      "type": "advanced-layout--hero",
-      "blocks": {
-        "text_dV9Yfm": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "hero-menu-heading": "Highlight your best sellers",
-            "hero-menu-subheading": "Link to any collection, product or page",
-            "hero-menu-link": "",
-            "featured_image_size": "original"
-          }
-        },
-        "text_RXdLeM": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "hero-menu-heading": "Highlight your best sellers",
-            "hero-menu-subheading": "Link to any collection, product or page",
-            "hero-menu-link": "",
-            "featured_image_size": "original"
-          }
-        },
-        "text_x3npaN": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "hero-menu-heading": "Promote a new collection",
-            "hero-menu-subheading": "Link to any collection, product or page",
-            "hero-menu-link": "",
-            "featured_image_size": "original"
-          }
-        }
-      },
-      "block_order": [
-        "text_dV9Yfm",
-        "text_RXdLeM",
-        "text_x3npaN"
-      ],
-      "custom_css": [
-        "h2 {font-size: 45px;}",
-        "@media screen and (min-width: 768px) {P {font-size: 20px; width: 50%; }}",
-        ".advanced-layout--hero__text-block {text-align: -webkit-center !important;}"
-      ],
-      "settings": {
-        "homepage-hero-featured-content": "homepage-hero-image-selection",
-        "home-page-hero-image": "shopify://shop_images/Malmo_Lounger_Chair_4.jpg",
-        "image_overlay_opacity": 0,
-        "homepage-hero-image-heading": "The classic Eames chair",
-        "homepage-hero-image-description": "The Malmo Lounge Chair and Stool is a classic piece following the timeless Eames design that oozes class & sophistication. A highly desired item, perfect for reading a book, having an afternoon nap or watching your favourite movie.",
-        "text-color": "#ffffff",
-        "homepage-hero-image-button-label": "Buy Now",
-        "homepage-hero-image-link": "shopify://products/the-malmo-lounge-chair-and-stool",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "homepage-hero-video-autoplay": true,
-        "homepage-hero-video-loop": true,
-        "homepage-hero-video-mute": false
-      }
-    },
     "image_image_with_text_overlay_Hq4VMr": {
       "type": "image--image-with-text-overlay",
       "custom_css": [
@@ -801,6 +801,7 @@
     "text_testimonials_KmpgDn",
     "collection_collection_list_zw6mJm",
     "text_rich_text_H7teh9",
+    "advanced_layout_hero_cTBpB3",
     "text_text_adverts_kjE3zM",
     "animated_text_cLmPFA",
     "image_logo_list_acPrdx",
@@ -811,7 +812,6 @@
     "image_image_with_text_9yTJGE",
     "template_product_info_columns_FBtNaR",
     "image_slideshow_pa6CFF",
-    "advanced_layout_hero_cTBpB3",
     "image_image_with_text_overlay_Hq4VMr",
     "image_logo_list_kFtVhj"
   ]
