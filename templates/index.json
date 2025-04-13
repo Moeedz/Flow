@@ -461,13 +461,21 @@
             "image": "shopify://shop_images/Carlton_2.jpg",
             "link": ""
           }
+        },
+        "logo_image_eKtxzc": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/Avriio.jpg",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_image_n6B7BT",
         "logo_image_baGtzL",
         "logo_image_dCGUhm",
-        "logo_image_4C3eDA"
+        "logo_image_4C3eDA",
+        "logo_image_eKtxzc"
       ],
       "settings": {
         "colors": "light",
