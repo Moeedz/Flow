@@ -150,6 +150,51 @@
         "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Complete The Look</p></div></div>"
       }
     },
+    "text_testimonials_H8JKkX": {
+      "type": "text--testimonials",
+      "blocks": {
+        "text_VnVXnx": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
+            "customer_name": "Joy S",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_EExHqx": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
+            "customer_name": "Carl T",
+            "link": "",
+            "stars": 5
+          }
+        },
+        "text_nALbyX": {
+          "type": "text",
+          "settings": {
+            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
+            "customer_name": "Aly K",
+            "link": "",
+            "stars": 5
+          }
+        }
+      },
+      "block_order": [
+        "text_VnVXnx",
+        "text_EExHqx",
+        "text_nALbyX"
+      ],
+      "custom_css": [
+        ".testimonials--star-wrapper svg path {fill: #deb34a; stroke: #deb34a;}"
+      ],
+      "settings": {
+        "colors": "white",
+        "circle_images": true,
+        "title": "Testimonials"
+      }
+    },
     "template_product_recommendations_GxgAUN": {
       "type": "template--product--recommendations",
       "blocks": {
@@ -213,51 +258,6 @@
         "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Recently Viewed</p></div></div>"
       }
     },
-    "text_testimonials_H8JKkX": {
-      "type": "text--testimonials",
-      "blocks": {
-        "text_VnVXnx": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Wonderful selection of gorgeous furniture. </p><p>\"I had some questions and the team were really knowledgeable and happy to help.\"</p>",
-            "customer_name": "Joy S",
-            "link": "",
-            "stars": 5
-          }
-        },
-        "text_EExHqx": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Top class customer service 5 stars<br/><br/>\"I had some questions about the products and nothing was too much trouble. This company go the extra mile. Great website too with a choice of furniture to grace any home.\"</p>",
-            "customer_name": "Carl T",
-            "link": "",
-            "stars": 5
-          }
-        },
-        "text_nALbyX": {
-          "type": "text",
-          "settings": {
-            "testimonial_text": "<p>Great service!<br/><br/>\"For those looking for high quality individual furniture items to view and purchase online, look no further!\"</p>",
-            "customer_name": "Aly K",
-            "link": "",
-            "stars": 5
-          }
-        }
-      },
-      "block_order": [
-        "text_VnVXnx",
-        "text_EExHqx",
-        "text_nALbyX"
-      ],
-      "custom_css": [
-        ".testimonials--star-wrapper svg path {fill: #deb34a; stroke: #deb34a;}"
-      ],
-      "settings": {
-        "colors": "white",
-        "circle_images": true,
-        "title": "Testimonials"
-      }
-    },
     "template_product_recently_viewed_6yGbwX": {
       "type": "template--product--recently-viewed",
       "blocks": {
@@ -303,10 +303,10 @@
   "order": [
     "product-form",
     "advanced_layout_custom_liquid_wNbeyz",
+    "text_testimonials_H8JKkX",
     "template_product_recommendations_GxgAUN",
     "product-description",
     "advanced_layout_custom_liquid_GUPqc7",
-    "text_testimonials_H8JKkX",
     "template_product_recently_viewed_6yGbwX"
   ]
 }
