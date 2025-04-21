@@ -298,6 +298,79 @@
       "settings": {
         "recently_viewed_title": "Recently viewed"
       }
+    },
+    "ss_scrolling_announcement_bar_mLM9zD": {
+      "type": "ss-scrolling-announcement-bar",
+      "blocks": {
+        "text_TKGbXw": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping"
+          }
+        },
+        "text_jRdQzE": {
+          "type": "text",
+          "settings": {
+            "text": "Free Returns"
+          }
+        }
+      },
+      "block_order": [
+        "text_TKGbXw",
+        "text_jRdQzE"
+      ],
+      "disabled": true,
+      "settings": {
+        "insert_css_class_target": ".header, .pageheader, .section-header, #announcement, .toolbar, .header__wrapper",
+        "text_size": 12,
+        "ss_font_family": "montserrat_n4",
+        "link": "",
+        "animation_duration": 44,
+        "animation_direction": "right",
+        "pause_hover": false,
+        "bg": "#000000",
+        "text_color": "#fff",
+        "hover_opacity": 90,
+        "padding_horizontal": 2,
+        "padding_vertical": 1.5
+      }
+    },
+    "text_text_adverts_AQbbX6": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_XGqKtF": {
+          "type": "text",
+          "settings": {
+            "heading": "Price Match Guarantee",
+            "subheading": "We constantly check our prices, however if you see the same product for cheaper elsewhere, we will match the price",
+            "link": ""
+          }
+        },
+        "text_brwAaK": {
+          "type": "text",
+          "settings": {
+            "heading": "Finance Options",
+            "subheading": "We have partnered with PayPal and Klarna and can offer payments in 3 instalments",
+            "link": ""
+          }
+        },
+        "text_qPVecH": {
+          "type": "text",
+          "settings": {
+            "heading": " Direct Home Delivery Service",
+            "subheading": "We offer a white glove delivery service and you can track your order as soon as it starts it's journey to you",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_XGqKtF",
+        "text_brwAaK",
+        "text_qPVecH"
+      ],
+      "settings": {
+        "colors": "light"
+      }
     }
   },
   "order": [
@@ -307,6 +380,8 @@
     "template_product_recommendations_GxgAUN",
     "product-description",
     "advanced_layout_custom_liquid_GUPqc7",
-    "template_product_recently_viewed_6yGbwX"
+    "template_product_recently_viewed_6yGbwX",
+    "ss_scrolling_announcement_bar_mLM9zD",
+    "text_text_adverts_AQbbX6"
   ]
 }
