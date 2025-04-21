@@ -195,6 +195,13 @@
         "title": "Testimonials"
       }
     },
+    "product-description": {
+      "type": "template--product--description",
+      "disabled": true,
+      "settings": {
+        "enable_readmore": false
+      }
+    },
     "template_product_recommendations_GxgAUN": {
       "type": "template--product--recommendations",
       "blocks": {
@@ -241,13 +248,6 @@
       ],
       "settings": {
         "product_recommendations_heading": "You may also like"
-      }
-    },
-    "product-description": {
-      "type": "template--product--description",
-      "disabled": true,
-      "settings": {
-        "enable_readmore": false
       }
     },
     "advanced_layout_custom_liquid_GUPqc7": {
@@ -329,7 +329,7 @@
         "animation_direction": "right",
         "pause_hover": false,
         "bg": "#000000",
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "hover_opacity": 90,
         "padding_horizontal": 2,
         "padding_vertical": 1.5
@@ -377,11 +377,11 @@
     "product-form",
     "advanced_layout_custom_liquid_wNbeyz",
     "text_testimonials_H8JKkX",
-    "template_product_recommendations_GxgAUN",
     "product-description",
+    "text_text_adverts_AQbbX6",
+    "template_product_recommendations_GxgAUN",
     "advanced_layout_custom_liquid_GUPqc7",
     "template_product_recently_viewed_6yGbwX",
-    "ss_scrolling_announcement_bar_mLM9zD",
-    "text_text_adverts_AQbbX6"
+    "ss_scrolling_announcement_bar_mLM9zD"
   ]
 }
