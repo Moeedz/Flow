@@ -78,10 +78,30 @@
         "show_swatch_filter_labels": true,
         "enable_sorting": true
       }
+    },
+    "17457595165eedf046": {
+      "type": "apps",
+      "blocks": {
+        "onereview_collection_stars_TqaEHB": {
+          "type": "shopify://apps/onereview/blocks/collection_stars/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
+          "settings": {
+            "all_reviewed_products": true,
+            "empty_products": false,
+            "star_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "onereview_collection_stars_TqaEHB"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "collection-header-default",
-    "product-grid"
+    "product-grid",
+    "17457595165eedf046"
   ]
 }
