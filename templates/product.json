@@ -42,6 +42,13 @@
             "margin_bottom": 20
           }
         },
+        "onereview_star_rating_K4nFp7": {
+          "type": "shopify://apps/onereview/blocks/star_rating/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
+          "settings": {
+            "star_color": "",
+            "custom_text": "reviews"
+          }
+        },
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819": {
           "type": "separator",
           "settings": {
@@ -118,6 +125,7 @@
         "price",
         "custom_liquid_i973wf",
         "custom_liquid_UfWeXC",
+        "onereview_star_rating_K4nFp7",
         "f0f0e917-92a5-4957-a68e-2d0bb38d7819",
         "options",
         "quantity",
