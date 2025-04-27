@@ -150,6 +150,32 @@
         "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Complete The Look</p></div></div>"
       }
     },
+    "1745758876b68bcf44": {
+      "type": "apps",
+      "blocks": {
+        "onereview_review_summary_CyT3Ub": {
+          "type": "shopify://apps/onereview/blocks/review_summary/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
+          "settings": {
+            "bg_color": "",
+            "border_color": "",
+            "text_color": "",
+            "heading_color": "",
+            "star_color": "",
+            "dropshadow": false,
+            "heading": "Online Reviews",
+            "summary_heading": "",
+            "pros_heading": "",
+            "cons_heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "onereview_review_summary_CyT3Ub"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "text_testimonials_H8JKkX": {
       "type": "text--testimonials",
       "blocks": {
@@ -200,6 +226,43 @@
       "disabled": true,
       "settings": {
         "enable_readmore": false
+      }
+    },
+    "text_text_adverts_AQbbX6": {
+      "type": "text--text-adverts",
+      "blocks": {
+        "text_XGqKtF": {
+          "type": "text",
+          "settings": {
+            "heading": "Price Match Guarantee",
+            "subheading": "We constantly check our prices, however if you see the same product for cheaper elsewhere, we will match the price",
+            "link": ""
+          }
+        },
+        "text_brwAaK": {
+          "type": "text",
+          "settings": {
+            "heading": "Finance Options",
+            "subheading": "We have partnered with PayPal and Klarna and can offer payments in 3 instalments",
+            "link": ""
+          }
+        },
+        "text_qPVecH": {
+          "type": "text",
+          "settings": {
+            "heading": " Direct Home Delivery Service",
+            "subheading": "We offer a white glove delivery service and you can track your order as soon as it starts it's journey to you",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_XGqKtF",
+        "text_brwAaK",
+        "text_qPVecH"
+      ],
+      "settings": {
+        "colors": "light"
       }
     },
     "template_product_recommendations_GxgAUN": {
@@ -334,48 +397,12 @@
         "padding_horizontal": 2,
         "padding_vertical": 1.5
       }
-    },
-    "text_text_adverts_AQbbX6": {
-      "type": "text--text-adverts",
-      "blocks": {
-        "text_XGqKtF": {
-          "type": "text",
-          "settings": {
-            "heading": "Price Match Guarantee",
-            "subheading": "We constantly check our prices, however if you see the same product for cheaper elsewhere, we will match the price",
-            "link": ""
-          }
-        },
-        "text_brwAaK": {
-          "type": "text",
-          "settings": {
-            "heading": "Finance Options",
-            "subheading": "We have partnered with PayPal and Klarna and can offer payments in 3 instalments",
-            "link": ""
-          }
-        },
-        "text_qPVecH": {
-          "type": "text",
-          "settings": {
-            "heading": " Direct Home Delivery Service",
-            "subheading": "We offer a white glove delivery service and you can track your order as soon as it starts it's journey to you",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "text_XGqKtF",
-        "text_brwAaK",
-        "text_qPVecH"
-      ],
-      "settings": {
-        "colors": "light"
-      }
     }
   },
   "order": [
     "product-form",
     "advanced_layout_custom_liquid_wNbeyz",
+    "1745758876b68bcf44",
     "text_testimonials_H8JKkX",
     "product-description",
     "text_text_adverts_AQbbX6",
