@@ -158,50 +158,6 @@
         "custom_liquid": "<div style='text-align:LEFT; padding: 0px 0;font-size:14px'><div class=\"wrapper-padded\"></h2><p>Complete The Look</p></div></div>"
       }
     },
-    "17457591687abaff36": {
-      "type": "apps",
-      "blocks": {
-        "onereview_star_rating_nib844": {
-          "type": "shopify://apps/onereview/blocks/star_rating/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
-          "settings": {
-            "star_color": "",
-            "custom_text": "reviews"
-          }
-        }
-      },
-      "block_order": [
-        "onereview_star_rating_nib844"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "1745758876b68bcf44": {
-      "type": "apps",
-      "blocks": {
-        "onereview_review_summary_CyT3Ub": {
-          "type": "shopify://apps/onereview/blocks/review_summary/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
-          "settings": {
-            "bg_color": "",
-            "border_color": "",
-            "text_color": "",
-            "heading_color": "",
-            "star_color": "",
-            "dropshadow": false,
-            "heading": "Online Reviews",
-            "summary_heading": "",
-            "pros_heading": "",
-            "cons_heading": ""
-          }
-        }
-      },
-      "block_order": [
-        "onereview_review_summary_CyT3Ub"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "text_testimonials_H8JKkX": {
       "type": "text--testimonials",
       "blocks": {
@@ -428,8 +384,6 @@
   "order": [
     "product-form",
     "advanced_layout_custom_liquid_wNbeyz",
-    "17457591687abaff36",
-    "1745758876b68bcf44",
     "text_testimonials_H8JKkX",
     "product-description",
     "text_text_adverts_AQbbX6",
