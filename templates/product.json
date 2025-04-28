@@ -210,6 +210,32 @@
         "enable_readmore": false
       }
     },
+    "17458245545924400c": {
+      "type": "apps",
+      "blocks": {
+        "onereview_review_summary_yB8z8j": {
+          "type": "shopify://apps/onereview/blocks/review_summary/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
+          "settings": {
+            "bg_color": "",
+            "border_color": "",
+            "text_color": "",
+            "heading_color": "",
+            "star_color": "",
+            "dropshadow": false,
+            "heading": "",
+            "summary_heading": "",
+            "pros_heading": "",
+            "cons_heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "onereview_review_summary_yB8z8j"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "text_text_adverts_AQbbX6": {
       "type": "text--text-adverts",
       "blocks": {
@@ -383,6 +409,7 @@
   },
   "order": [
     "product-form",
+    "17458245545924400c",
     "advanced_layout_custom_liquid_wNbeyz",
     "text_testimonials_H8JKkX",
     "product-description",
