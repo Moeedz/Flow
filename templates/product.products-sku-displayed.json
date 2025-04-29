@@ -28,6 +28,12 @@
             "margin_bottom": 20
           }
         },
+        "sku_Xw9BEK": {
+          "type": "sku",
+          "settings": {
+            "margin_bottom": 20
+          }
+        },
         "custom_liquid_i973wf": {
           "type": "custom_liquid",
           "settings": {
@@ -123,6 +129,7 @@
       "block_order": [
         "title",
         "price",
+        "sku_Xw9BEK",
         "custom_liquid_i973wf",
         "custom_liquid_UfWeXC",
         "onereview_star_rating_K4nFp7",
@@ -149,6 +156,32 @@
         "thumbnail_position": "below",
         "enable_video_loop": true,
         "app_margin_bottom": 17
+      }
+    },
+    "17458245545924400c": {
+      "type": "apps",
+      "blocks": {
+        "onereview_review_summary_yB8z8j": {
+          "type": "shopify://apps/onereview/blocks/review_summary/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
+          "settings": {
+            "bg_color": "",
+            "border_color": "",
+            "text_color": "",
+            "heading_color": "",
+            "star_color": "",
+            "dropshadow": false,
+            "heading": "",
+            "summary_heading": "",
+            "pros_heading": "",
+            "cons_heading": ""
+          }
+        }
+      },
+      "block_order": [
+        "onereview_review_summary_yB8z8j"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "advanced_layout_custom_liquid_wNbeyz": {
@@ -208,32 +241,6 @@
       "disabled": true,
       "settings": {
         "enable_readmore": false
-      }
-    },
-    "17458245545924400c": {
-      "type": "apps",
-      "blocks": {
-        "onereview_review_summary_yB8z8j": {
-          "type": "shopify://apps/onereview/blocks/review_summary/9708ee2d-3097-4b58-bc88-57bc9d6c730a",
-          "settings": {
-            "bg_color": "",
-            "border_color": "",
-            "text_color": "",
-            "heading_color": "",
-            "star_color": "",
-            "dropshadow": false,
-            "heading": "",
-            "summary_heading": "",
-            "pros_heading": "",
-            "cons_heading": ""
-          }
-        }
-      },
-      "block_order": [
-        "onereview_review_summary_yB8z8j"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "text_text_adverts_AQbbX6": {
